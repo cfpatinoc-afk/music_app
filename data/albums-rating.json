@@ -1,0 +1,8953 @@
+[
+  {
+    "name": "Abbey Road",
+    "artist": "The Beatles",
+    "image": "https://cdn.sonemic.net/i/600/w/b7d49832f4958688cd82b6dbb9f4dd31/12188855/the-beatles-abbey-road-Cover-Art.jpg",
+    "year": 1969,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 60s",
+    "genre": "Pop Rock, Blues Rock",
+    "duration": 48,
+    "rate": 4.8182,
+    "avg_rate": 5,
+    "like_percentage": 78.125,
+    "songs": [
+      {
+        "name": "Come Together",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Something",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Maxwell's Silver Hammer",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Oh! Darling",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Octopus's Garden",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "I Want You (She's So Heavy)",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Here Comes the Sun",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Because",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "You Never Give Me Your Money",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        },
+        "min_rating": 4,
+        "max_rating": 4
+      },
+      {
+        "name": "Sun King",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Mean Mr. Mustard",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Polythene Pam",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "She Came In Through the Bathroom Window",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Golden Slumbers",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Carry That Weight",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "The End",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Dark Side of The Moon",
+    "artist": "Pink Floyd",
+    "image": "https://cdn.sonemic.net/i/600/w/b87ea178beaaaf0e0e4a39aaf9d1b834/12206378/pink-floyd-the-dark-side-of-the-moon-Cover-Art.jpg",
+    "year": 1973,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 70s",
+    "genre": "Art Rock, Progressive Rock",
+    "duration": 43,
+    "rate": 4.805555555555555,
+    "avg_rate": 5,
+    "like_percentage": 72.22222222222223,
+    "songs": [
+      {
+        "name": "Breathe",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        },
+        "min_rating": 4.25,
+        "max_rating": 4.5
+      },
+      {
+        "name": "On The Run",
+        "rate": 3.625,
+        "range": {
+          "low": 3.5,
+          "high": 3.725
+        }
+      },
+      {
+        "name": "Time",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Great Gig in the Sky",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Money",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Us and Them",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Any Colour you Like",
+        "rate": 4.875,
+        "range": {
+          "low": 4.875,
+          "high": 5
+        }
+      },
+      {
+        "name": "Brain Damage",
+        "rate": 4.875,
+        "range": {
+          "low": 4.875,
+          "high": 5
+        }
+      },
+      {
+        "name": "Eclipse",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Metropolis Part 2: Scenes from a Memory",
+    "artist": "Dream Theater",
+    "image": "https://cdn.sonemic.net/i/600/w/0a8231cec594898fa6be9a46c080322c/1215276/dream-theater-metropolis-pt-2-scenes-from-a-memory-Cover-Art.jpg",
+    "year": 1999,
+    "country": "Estados Unidos",
+    "main_genre": "Neo Prog - Metal Prog",
+    "genre": "Progressive Metal, Progressive Rock",
+    "duration": 77,
+    "rate": 4.791666666666667,
+    "avg_rate": 5,
+    "like_percentage": 70.83333333333333,
+    "songs": [
+      {
+        "name": "Scene One: Regression",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Scene Two Pt1: Overture 1928",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Scene Two Pt2: Strange Dejavu",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Scene Three Pt1: Through my Words",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Scene Three Pt2: Fatal Tragedy",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Scene Four: Beyond This Life",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Scene Five: Through her Eyes",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        },
+        "min_rating": 5,
+        "max_rating": 5
+      },
+      {
+        "name": "Scene Six: Home",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Scene Seven Pt1: The Dance of Eternity",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Scene Seven Pt2: One Last Time",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Scene Eight: The Spirit Carries On",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Scene Nine: Finally Free",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Channel ORANGE",
+    "artist": "Frank Ocean",
+    "image": "https://cdn.sonemic.net/i/600/w/d9ddc1a51993a48db40b721757bb63b8/8060277/frank-ocean-channel-orange-Cover-Art.jpg",
+    "year": 2012,
+    "country": "Estados Unidos",
+    "main_genre": "New R&B",
+    "genre": "Alternative R&B, Contemporary R&B, Neo-Soul",
+    "duration": 56,
+    "rate": 4.7885,
+    "avg_rate": 5,
+    "like_percentage": 69.23,
+    "songs": [
+      {
+        "name": "Think Bout You",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Sierra Leone",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Sweet Life",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Super Rich Kids",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Pilot Jones",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Crack Rock",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Pyramids",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Lost",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "White",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Monks",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Bad Religion",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Pink Matter",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Forrest Gump",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "image": "https://cdn.sonemic.net/i/600/w/a817cc5eab7625900369641e4ce38aef/12322572/lauryn-hill-the-miseducation-of-lauryn-hill-Cover-Art.jpg",
+    "year": 1998,
+    "country": "Estados Unidos",
+    "main_genre": "New R&B",
+    "genre": "Neo-Soul, Contemporary R&B, East Coast Hip Hop",
+    "duration": 78,
+    "rate": 4.7833,
+    "avg_rate": 5,
+    "like_percentage": 66.67,
+    "songs": [
+      {
+        "name": "Lost Ones",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Ex Factor",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "To Zion",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Doo Wop (That Thing)",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Superstar",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Final Hour",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "When It Hurts So Bad",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "I Used to Love Him",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Forgive Them Father",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Every Ghetto, Every City",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Nothing Even Matters",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Everything is Everything",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "The Misseducation of Lauryn Hill",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Can Take my Eyes Off of You",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Tell Him",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Ants From Up There",
+    "artist": "Black Country, New Road",
+    "image": "https://cdn.sonemic.net/i/600/w/d41fd89a34689afe2a3c392958a5d40e/9391518/black-country-new-road-ants-from-up-there-Cover-Art.jpg",
+    "year": 2022,
+    "country": "Inglaterra",
+    "main_genre": "Rock New Wave 10s",
+    "genre": "Art Rock, Post-Rock, Chamber Pop",
+    "duration": 59,
+    "rate": 4.7778,
+    "avg_rate": 5,
+    "like_percentage": 72.22,
+    "songs": [
+      {
+        "name": "Chaos Space Marin",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Concorde",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Bread Song",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Good Will Hunting",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Haldern",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Mark's Theme",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "The Place Where He Inserted the Blade",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Snow Globes",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Basketball Shoes",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Artaud",
+    "artist": "Pescado Rabioso (Luis Alberto Spinetta)",
+    "image": "https://cdn.sonemic.net/i/600/w/4e522f15363ed602ee2dc3a79b0db497/5524590/pescado-rabioso-artaud-Cover-Art.jpg",
+    "year": 1973,
+    "country": "Argentina",
+    "main_genre": "Rock Clasico Hispano",
+    "genre": "Folk Rock, Singer-Songwriter, Art Rock",
+    "duration": 37,
+    "rate": 4.75,
+    "avg_rate": 4.5,
+    "like_percentage": 66.67,
+    "songs": [
+      {
+        "name": "Todas las hojas son del Viento",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Cementerio Club",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Por",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Supercheria",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "La Sed Verdadera",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "La Cantata de Puentes Amarillos",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Bajan",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "A Starosta, el Idiota",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Las Habladurias del Mundo",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Master of Puppets",
+    "artist": "Metallica",
+    "image": "https://cdn.sonemic.net/i/600/w/280060a11fb6a67d6ac86d54f2e83cc6/3986151/metallica-master-of-puppets-Cover-Art.jpg",
+    "year": 1986,
+    "country": "Estados Unidos",
+    "main_genre": "Thrash Metal Classic",
+    "genre": "Thrash Metal",
+    "duration": 55,
+    "rate": 4.75,
+    "avg_rate": 4.5,
+    "like_percentage": 56.25,
+    "songs": [
+      {
+        "name": "Battery",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Master Of Puppets",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "The Thing That Not Should Be",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Welcome Home (Sanitarium)",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Disposable Heroes",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Lepper Messias",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Orion",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Damage Inc",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Peliculas",
+    "artist": "La Maquina de Hacer Pajaros",
+    "image": "https://cdn.sonemic.net/i/600/w/a015d67ae2c0a76bfcfc29bc8305e780/12177630/la-maquina-de-hacer-pajaros-peliculas-Cover-Art.jpg",
+    "year": 1977,
+    "country": "Argentina",
+    "main_genre": "Rock Clasico Hispano",
+    "genre": "Progressive Rock, Jazz-Rock",
+    "duration": 39,
+    "rate": 4.7344,
+    "avg_rate": 4.5,
+    "like_percentage": 56.25,
+    "songs": [
+      {
+        "name": "Obertura 777",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Marilyn, la Cenicienta y las Mujeres",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "No te dejes Desanimar",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Que se Puede Hacer Salvo ver Peliculas",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Hipercandombe",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "El vendedor de las muñecas de plástico",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Ruta Perdedora",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "En las Calles de Costa Rica",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "image": "https://cdn.sonemic.net/i/600/w/75fbb30f1991d495019efdf595ec6ccb/13626682/the-notorious-b_i_g-ready-to-die-Cover-Art.jpg",
+    "year": 1994,
+    "country": "Estados Unidos",
+    "main_genre": "Hip Hop Classic",
+    "genre": "East Coast Hip Hop, Gangsta Rap",
+    "duration": 76,
+    "rate": 4.7333,
+    "avg_rate": 4.5,
+    "like_percentage": 66.67,
+    "songs": [
+      {
+        "name": "Things Done Changed",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Gimme the Loot",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Machine Gun Funk",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Warning",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ready to Die",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "One More Chance",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The What",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Juicy",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Everyday Struggle",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Me and My Bitch",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Big Poppa",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Respect",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Friend of Mine",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Unbelievable",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Suicidal Thoughts",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "La Dulzura",
+    "artist": "Cultura Profética",
+    "image": "https://cdn.sonemic.net/i/600/w/bd3fab17980ffb21113483c81d428bf2/4797733/cultura-profetica-la-dulzura-Cover-Art.jpg",
+    "year": 2010,
+    "country": "Puerto Rico",
+    "main_genre": "Reggae Hispano",
+    "genre": "Reggae, Pop Reggae",
+    "duration": 57,
+    "rate": 4.7292,
+    "avg_rate": 4.5,
+    "like_percentage": 70.83,
+    "songs": [
+      {
+        "name": "Rimas pa Seducir",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "La Complicidad",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Amante Luz",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Para Estar",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "En la Oscuridad",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Baja la Presion",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ilegal",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Somos Muchos",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "De Tope al Fondo",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Me Faltabas Tu",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Verso Terso",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "La Espera",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Imaginal Disk",
+    "artist": "Magdalena Bay",
+    "image": "https://cdn.sonemic.net/i/600/w/ab9a537d52c29e69bba3e339bab69632/12301754/magdalena-bay-imaginal-disk-Cover-Art.jpg",
+    "year": 2024,
+    "country": "Estados Unidos",
+    "main_genre": "Pop",
+    "genre": "Neo-Psychedelia, Synthpop, Dance-Pop, Progressive Pop",
+    "duration": 54,
+    "rate": 4.7232,
+    "avg_rate": 4.5,
+    "like_percentage": 64.29,
+    "songs": [
+      {
+        "name": "She Looked Like Me",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Killing Time",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "The Blue Interlude",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Images",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Death & Romance",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Fear, Sex",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Vampire in The Courner",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Watching TV",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Tunnel Vision",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Love is Everywhere",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "That's my Floor",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Cry for My",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Angel on a Satelite",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "The Ballad of Math and Mica",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "image": "https://cdn.sonemic.net/i/600/w/a47f7eef08776272f5525d5a1f7c9c6a/8121875/kendrick-lamar-to-pimp-a-butterfly-Cover-Art.jpg",
+    "year": 2015,
+    "country": "Estados Unidos",
+    "main_genre": "Hip Hop New Wave",
+    "genre": "Conscious Hip Hop, Jazz Rap",
+    "duration": 79,
+    "rate": 4.7109,
+    "avg_rate": 4.5,
+    "like_percentage": 65.63,
+    "songs": [
+      {
+        "name": "Wesley's Theory",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "For Free?",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "King kunta",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Institutionalized",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "These Walls",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "U",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Alright",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "For Sale?",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Momma",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Hood Politics",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "How Much a Dollar Cost",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Complexion",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Blacker The Berry",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "You Ain't gotta Lie",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "I",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Mortal Man",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "image": "https://cdn.sonemic.net/i/600/w/46b108d80823c0ae21c81a9108630f42/14836765/pink-floyd-wish-you-were-here-Cover-Art.jpg",
+    "year": 1975,
+    "country": "Inglaterra",
+    "main_genre": "Rock Prog Classic",
+    "genre": "Progressive Rock, Art Rock",
+    "duration": 44,
+    "rate": 4.7,
+    "avg_rate": 4.5,
+    "like_percentage": 60,
+    "songs": [
+      {
+        "name": "Shine on your Crazy Diamond Part I - V",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Welcome to the Machine",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Have a Cigar",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Wish You were Here",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Shine on your Crazy Diamond Part VI - IX",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Clics modernos",
+    "artist": "Charly García",
+    "image": "https://cdn.sonemic.net/i/600/w/7fa4a814cf1b15489fe943ca5bdc7e70/10363074/charly-garcia-clics-modernos-Cover-Art.jpg",
+    "year": 1983,
+    "country": "Argentina",
+    "main_genre": "Rock Clasico Hispano",
+    "genre": "New Wave, Synthpop",
+    "duration": 35,
+    "rate": 4.6944,
+    "avg_rate": 4.5,
+    "like_percentage": 66.67,
+    "songs": [
+      {
+        "name": "Nos Siguen Pegando Abajo",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "No Soy un Extraño",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Dos Cero Uno",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Nuevos Trapos",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Bancate Este Defecto",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "No me Dejan Salir",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Los Dinosaurios",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Plateado sobre Plateado",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ojos de Videotape",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": true
+  },
+  {
+    "name": "Ok Computer",
+    "artist": "Radiohead",
+    "image": "https://cdn.sonemic.net/i/600/w/91f41d53d83f36ac3bb0cee7d6dffca3/11993756/radiohead-ok-computer-Cover-Art.jpg",
+    "year": 1997,
+    "country": "Inglaterra",
+    "main_genre": "Rock New Wave 90s",
+    "genre": "Alternative Rock, Art Rock",
+    "duration": 53,
+    "rate": 4.6932,
+    "avg_rate": 4.5,
+    "like_percentage": 63.64,
+    "songs": [
+      {
+        "name": "Airbag",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Paranoid Android",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Subterranean Homesick Alien",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Exit Music (For a Film)",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Let Down",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Karma Police",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Electioneering",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Climbing up the Walls",
+        "rate": 3,
+        "range": {
+          "low": 3,
+          "high": 3
+        }
+      },
+      {
+        "name": "No Surprises",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Lucky",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Tourist",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Score",
+    "artist": "Fugees",
+    "image": "https://cdn.sonemic.net/i/600/w/ed14f1ffb16ea37b1b1489ab3cdef1f9/12200515/fugees-the-score-Cover-Art.jpg",
+    "year": 1996,
+    "country": "Estados Unidos",
+    "main_genre": "Hip Hop Classic",
+    "genre": "East Coast Hip Hop, Conscious Hip Hop, Boom Bap",
+    "duration": 60,
+    "rate": 4.6923,
+    "avg_rate": 4.5,
+    "like_percentage": 65.38,
+    "songs": [
+      {
+        "name": "Red Intro",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "How Many Mics",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ready or Not",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Zealots",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Beast",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Fuu Gee La",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Family Business",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Killig me Softly With This Song",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "The Score",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "The Mask",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Cowboys",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "No Woman No Cry",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Manifest / Outro",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Un Verano sin Ti",
+    "artist": "Bad Bunny",
+    "image": "https://cdn.sonemic.net/i/600/w/e1c701b497adda4266344d7976ebd96b/14261880/bad-bunny-un-verano-sin-ti-Cover-Art.jpg",
+    "year": 2022,
+    "country": "Puerto Rico",
+    "main_genre": "Reggaeton",
+    "genre": "Reggaetón, Pop, Dancehall, Afrobeats, Dembow",
+    "duration": 82,
+    "rate": 4.6902,
+    "avg_rate": 4.5,
+    "like_percentage": 73.91,
+    "songs": [
+      {
+        "name": "Moscow Mule",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Despues de la Playa",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Me Porto Bonito",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Titi me Pregunto",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Un Ratito",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Yo no Soy Celoso",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Tarot",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Neverita",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "La Corriente",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Efecto",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Party",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Aguacero",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Enseñame a Bailar",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Ojitos Lindos",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Dos Mil 16",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "El Apagon",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Otro Atardecer",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Un Coco",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Andrea",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Me Fui de Vacaciones",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Un Verano sin Ti",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Agosto",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Callaita",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Selling England by the Pound",
+    "artist": "Genesis",
+    "image": "https://cdn.sonemic.net/i/600/w/2c42781523d06ad1e4c85010644cb8a4/2716765/genesis-selling-england-by-the-pound-Cover-Art.jpg",
+    "year": 1973,
+    "country": "Inglaterra",
+    "main_genre": "Rock Prog Classic",
+    "genre": "Progressive Rock, Symphonic Prog",
+    "duration": 54,
+    "rate": 4.6875,
+    "avg_rate": 4.5,
+    "like_percentage": 56.25,
+    "songs": [
+      {
+        "name": "Dancing With The Moonlit Knight",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "I Know What I Like",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Firth of Fifth",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "More Fool Me",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "The Battle of Epping Forest",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "After the Ordeal",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "The Cinema Show",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Aisle of Plenty",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "And Justice For All",
+    "artist": "Metallica",
+    "image": "https://cdn.sonemic.net/i/600/w/72a5843d6b54d6ef66c68d5a23503e5f/2633953/metallica-and-justice-for-all-Cover-Art.jpg",
+    "year": 1988,
+    "country": "Estados Unidos",
+    "main_genre": "Thrash Metal Classic",
+    "genre": "Thrash Metal, Technical Thrash Metal",
+    "duration": 65,
+    "rate": 4.6806,
+    "avg_rate": 4.5,
+    "like_percentage": 77.78,
+    "songs": [
+      {
+        "name": "Blackend",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "And Justice For All",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Eye of Beholder",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "One",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "The Shortest Straw",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Haver of Sorrow",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "The Frayed Ends of Sanity",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "To Live is To Die",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Dyes Eve",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Illmatic",
+    "artist": "Nas",
+    "image": "https://cdn.sonemic.net/i/600/w/4d7fde928681113f61e2a7779f7cb224/12424339/nas-illmatic-Cover-Art.jpg",
+    "year": 1994,
+    "country": "Estados Unidos",
+    "main_genre": "Hip Hop Classic",
+    "genre": "East Coast Hip Hop",
+    "duration": 40,
+    "rate": 4.6806,
+    "avg_rate": 4.5,
+    "like_percentage": 77.78,
+    "songs": [
+      {
+        "name": "N.Y State of Mind",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Life's a Bitch",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "The World is Yours",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Halftime",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Memory Lane",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "One Love",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "One Time 4 Your Mind",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Represent",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "It Ain't Hard to Tell",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Revolver",
+    "artist": "The Beatles",
+    "image": "https://cdn.sonemic.net/i/600/w/551a5210bed27d76046ec4788b5b754c/12121976/the-beatles-revolver-Cover-Art.jpg",
+    "year": 1966,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 60s",
+    "genre": "Pop Rock, Psychedelic Pop",
+    "duration": 35,
+    "rate": 4.6786,
+    "avg_rate": 4.5,
+    "like_percentage": 64.29,
+    "songs": [
+      {
+        "name": "Taxman",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Eleanor Rigby",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "I'm Only Sleeping",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Love You Too",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Here, There and Everywhere",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Yellow Submarine",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "She Said She Said",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Good Day Sunshine",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "And Your Bird Can Sing",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "For No One",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Doctor Robert",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "I Want To Tell You",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Got to Get You Into my Life",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Tomorrow Never Knows",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "RAM",
+    "artist": "Paul McCartney",
+    "image": "https://cdn.sonemic.net/i/600/w/d665fd75fecfa3630e0fc5c0f0c8ccbc/2396393/paul-and-linda-mccartney-ram-Cover-Art.jpg",
+    "year": 1971,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 70s",
+    "genre": "Pop Rock, Folk Rock",
+    "duration": 44,
+    "rate": 4.6771,
+    "avg_rate": 4.5,
+    "like_percentage": 58.33,
+    "songs": [
+      {
+        "name": "Too Many People",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Three Legs",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ram On",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Dear Boy",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Uncle Albert / Admiral Halsey",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Smile Away",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Heart of the Country",
+        "rate": 4.875,
+        "range": {
+          "low": 5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Monkberry Moon Delight",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Eat at Home",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "Long Haired Lady",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Ram On (Repise)",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Back Seat of My Car",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Esmeraldas",
+    "artist": "Crudo Means Raw",
+    "image": "https://cdn.sonemic.net/i/600/w/cf6c82fe505da03c431af340f7d0e8c1/8083342/crudo-means-raw-and-the-colombians-esmeraldas-Cover-Art.jpg",
+    "year": 2020,
+    "country": "Colombia",
+    "main_genre": "Hip Hop Hispano",
+    "genre": "Pop Rap, Reggaetón, Boom Bap, G-Funk",
+    "duration": 56,
+    "rate": 4.6765,
+    "avg_rate": 4.5,
+    "like_percentage": 61.76,
+    "songs": [
+      {
+        "name": "La Fea",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "La Mitad de la Mitad",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Dia Uno",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Novena",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "El Estren",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Jamming",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "No Copio",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Maria",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Poper",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "De Par en Par",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Maria Circones",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Sera Sera",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "La Titular",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "DMT",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "Bendiciones",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Sintesis",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Collage",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Animals",
+    "artist": "Pink Floyd",
+    "image": "https://cdn.sonemic.net/i/600/w/e3c3e7de5e4b0dcb773319b423e64df8/4175208/pink-floyd-animals-Cover-Art.png",
+    "year": 1977,
+    "country": "Inglaterra",
+    "main_genre": "Rock Prog Classic",
+    "genre": "Progressive Rock, Art Rock",
+    "duration": 42,
+    "rate": 4.675,
+    "avg_rate": 4.5,
+    "like_percentage": 60,
+    "songs": [
+      {
+        "name": "Pigs on the Wing Part I",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Dogs",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Pigs The other Ones",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Sheep",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Pigs on the Wing Part II",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Blonde",
+    "artist": "Frank Ocean",
+    "image": "https://cdn.sonemic.net/i/600/w/3bc698315ea2ed723fe714b7dd1f84af/8060362/frank-ocean-blonde-Cover-Art.jpg",
+    "year": 2016,
+    "country": "Estados Unidos",
+    "main_genre": "New R&B",
+    "genre": "Alternative R&B, Art Pop, New Soul",
+    "duration": 60,
+    "rate": 4.675,
+    "avg_rate": 4.5,
+    "like_percentage": 56.67,
+    "songs": [
+      {
+        "name": "Nikes",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ivy",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Pink + White",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Solo",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Skyline To",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Self Control",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Good Guy",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Nights",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Solo (Reprise)",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Pretty Sweet",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Close to You",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Withe Ferrari",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Seigfried",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Godspeed",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Futura Free",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Sgt. Peppers Lonely Heart Club Band",
+    "artist": "The Beatles",
+    "image": "https://cdn.sonemic.net/i/600/w/bcd8e3842e6e6eb7c09c96a3ac80dc9d/10941490/the-beatles-sgt-peppers-lonely-hearts-club-band-Cover-Art.jpg",
+    "year": 1967,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 60s",
+    "genre": "Psychedelic Rock, Pop Rock, Art Rock",
+    "duration": 40,
+    "rate": 4.6731,
+    "avg_rate": 4.5,
+    "like_percentage": 65.38,
+    "songs": [
+      {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "With a Little Help From my Friends",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Lucy in the Sky with Diamonds",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Getting Better",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Fixing a Hole",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "She's Leaving Home",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Being for the Benefit of Mr. Kite!",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Within You Without You",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "When I'm Sixty-Four",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Lovely Rita",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Good Morning, Good Morning",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band Reprise",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "A Day in the Life",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Deception Ignored",
+    "artist": "Deathrow",
+    "image": "https://cdn.sonemic.net/i/600/w/b77a436334d052ee05845d28b417614a/6527764/deathrow-deception-ignored-Cover-Art.jpg",
+    "year": 1989,
+    "country": "Alemania",
+    "main_genre": "Thrash Metal Classic",
+    "genre": "Technical Thrash Metal, Progressive Metal",
+    "duration": 48,
+    "rate": 4.6719,
+    "avg_rate": 4.5,
+    "like_percentage": 60.54,
+    "songs": [
+      {
+        "name": "Events in Concealment",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "The Deathwish",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Triocton",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "N.L.Y.H",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Watching the World",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Narcotic",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Machinery",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Bureaucracy",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Bicicleta",
+    "artist": "Serú Girán",
+    "image": "https://cdn.sonemic.net/i/600/w/0646210e8bbe03fefdd4d64ccd77c9a1/5253773/seru-giran-bicicleta-Cover-Art.jpg",
+    "year": 1980,
+    "country": "Argentina",
+    "main_genre": "Rock Clasico Hispano",
+    "genre": "Progressive Rock, Progressive Pop",
+    "duration": 42,
+    "rate": 4.6719,
+    "avg_rate": 4.5,
+    "like_percentage": 56.25,
+    "songs": [
+      {
+        "name": "A los Jovenes de Ayer",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Cuanto Tiempo mas Llevara?",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Cancion de Alicia en el Pais",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Luna de Marzo",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Mientras Miro las Nuevas Olas",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Desarma y Sangra",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Tema de Nayla",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Encuentro con el Diablo",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": true
+  },
+  {
+    "name": "Process of a New Decline",
+    "artist": "Gorod",
+    "image": "https://cdn.sonemic.net/i/600/w/027b06245edb353a1653697fee096545/3688956/gorod-process-of-a-new-decline-Cover-Art.jpg",
+    "year": 2009,
+    "country": "Francia",
+    "main_genre": "Death Metal New Wave",
+    "genre": "Technical Death Metal, Progressive Death Metal",
+    "duration": 50,
+    "rate": 4.6705,
+    "avg_rate": 4.5,
+    "like_percentage": 63.64,
+    "songs": [
+      {
+        "name": "Disavow your God",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Programers of Decline",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Diverted Logic",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Rebirth of Senses",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Path",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Spliters of Life",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Guilty of Dispersal",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Guilded Cage",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "A Common Hope",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Watershed",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Almigthy's Murder",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Innervisions",
+    "artist": "Stevie Wonder",
+    "image": "https://cdn.sonemic.net/i/600/w/ecf172a17420de0b418f108371b967fd/5749587/stevie-wonder-innervisions-Cover-Art.jpg",
+    "year": 1973,
+    "country": "Estados Unidos",
+    "main_genre": "Soul - Funk - R&B",
+    "genre": "Soul, Funk",
+    "duration": 45,
+    "rate": 4.6667,
+    "avg_rate": 4.5,
+    "like_percentage": 66.67,
+    "songs": [
+      {
+        "name": "To high",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Visions",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Living for the city",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Golden lady",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Higher Ground",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Jesus Childrend of America",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "All in Love is Fair",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Don't you Worry 'bout a Thing",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "He's Misstra Know-it-all",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Oktubre",
+    "artist": "Patricio Rey y los Redonditos de Ricota",
+    "image": "https://cdn.sonemic.net/i/600/w/21ffb6dabbb17961401fadcc286e7e0c/5410497/patricio-rey-y-sus-redonditos-de-ricota-oktubre-Cover-Art.jpg",
+    "year": 1986,
+    "country": "Argentina",
+    "main_genre": "Rock New Wave Hispano",
+    "genre": "Post Punk, New Wave",
+    "duration": 42,
+    "rate": 4.6667,
+    "avg_rate": 4.5,
+    "like_percentage": 66.67,
+    "songs": [
+      {
+        "name": "Fuegos de Oktubre",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Preso en mi Ciudad",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Musica para Pastillas",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Semen Up",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Divina Tv Futher",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Motor Circo",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Ji Ji Ji",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Cancion para Naufragos",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ya Nadie va a Escuchar tu Remera",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The New Abnormal",
+    "artist": "The Strokes",
+    "image": "https://cdn.sonemic.net/i/600/w/a462fb60fcf70479b3551a6bc66b43e9/9569779/the-strokes-the-new-abnormal-Cover-Art.jpg",
+    "year": 2020,
+    "country": "Estados Unidos",
+    "main_genre": "Rock New Wave 10's",
+    "genre": "Indie Rock, Post-Punk, New Wave",
+    "duration": 46,
+    "rate": 4.6667,
+    "avg_rate": 4.5,
+    "like_percentage": 61.11,
+    "songs": [
+      {
+        "name": "The Adults are Talking",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Selfless",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Brooklyn Bridge to Chorus",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Bad Decisions",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Eternal Summer",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "At the Door",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Why are Sundays so Depressing",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Not The Same Anymore",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Ode to The Mets",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Rust in Peace",
+    "artist": "Megadeth",
+    "image": "https://cdn.sonemic.net/i/600/w/280481cd17bf9dd4a78cf25f37c72bbb/5748025/megadeth-rust-in-peace-Cover-Art.jpg",
+    "year": 1990,
+    "country": "Estados Unidos",
+    "main_genre": "Thrash Metal Classic",
+    "genre": "Thrash Metal, Technical Thrash Metal",
+    "duration": 41,
+    "rate": 4.6667,
+    "avg_rate": 4.5,
+    "like_percentage": 61.11,
+    "songs": [
+      {
+        "name": "Holly Wars... The Punishment Due",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Hangar 18",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Take No Prisoners",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Five Magics",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Poison was The Cure",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Lucretia",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Tornado of Souls",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Dawn Patrol",
+        "rate": 3.25,
+        "range": {
+          "low": 3.25,
+          "high": 3.25
+        }
+      },
+      {
+        "name": "Rust in Peace... Polaris",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Todos Tienen que Comer",
+    "artist": "Crudo Means Raw",
+    "image": "https://cdn.sonemic.net/i/600/w/6a9b3c2e8ec00f2e887da1614765a745/8103097/crudo-means-raw-todos-tienen-que-comer-Cover-Art.jpg",
+    "year": 2016,
+    "country": "Colombia",
+    "main_genre": "Hip Hop Hispano",
+    "genre": "Boom Bap, Hip Hop",
+    "duration": 34,
+    "rate": 4.6667,
+    "avg_rate": 4.5,
+    "like_percentage": 61.11,
+    "songs": [
+      {
+        "name": "Horas Extras",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Benny Blanco",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "India Conocida",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Escama con la Cedula",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "No te Preocupes por Mi",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Desvaneciendo",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Jhon Travolta",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "Sangre en el Pool Party",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Hubiera",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "El vals del obrero",
+    "artist": "Ska-P",
+    "image": "https://cdn.sonemic.net/i/600/w/0474387b19201493c6830694a27a6a7d/3317817/ska-p-el-vals-del-obrero-Cover-Art.jpg",
+    "year": 1996,
+    "country": "España",
+    "main_genre": "Ska",
+    "genre": "Ska Punk, Ska",
+    "duration": 45,
+    "rate": 4.6667,
+    "avg_rate": 4.5,
+    "like_percentage": 58.33,
+    "songs": [
+      {
+        "name": "El Gato Lopez",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ñapaes",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "El Vals del Obrero",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Revistas del Corazon",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Romero el Madero",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Sectas",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "No te Pares",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Canabis",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Insecto Urbano",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Animales de Laboratorio",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "La Sesera no va",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Sexo y Religion",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Black Parade",
+    "artist": "My Chemical Romance",
+    "image": "https://cdn.sonemic.net/i/600/w/a0fe47b49205eb7dd590fd5b1d01e4f2/5077469/my-chemical-romance-the-black-parade-Cover-Art.png",
+    "year": 2006,
+    "country": "Estados Unidos",
+    "main_genre": "Rock New Wave 00s",
+    "genre": "Rock Opera, Pop Punk, Alternative Rock",
+    "duration": 52,
+    "rate": 4.6635,
+    "avg_rate": 4.5,
+    "like_percentage": 69.23,
+    "songs": [
+      {
+        "name": "The End",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Dead!",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "This Is How I Disappear",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "The Sharpest Lives",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Welcome to the Black Parade",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "I Don't Love You",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "House of Wolves",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Cancer",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Mama",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Sleep",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Teenagers",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Disenchanted",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Famous Last Worlds",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Infamous",
+    "artist": "Mobb Deep",
+    "image": "https://cdn.sonemic.net/i/600/w/feda120fab2b0d5e70b4f33d83d40231/12568216/mobb-deep-the-infamous-Cover-Art.jpg",
+    "year": 1995,
+    "country": "Estados Unidos",
+    "main_genre": "Hip Hop Classic",
+    "genre": "East Coast Hip Hop, Gangsta Rap",
+    "duration": 67,
+    "rate": 4.6635,
+    "avg_rate": 4.5,
+    "like_percentage": 69.23,
+    "songs": [
+      {
+        "name": "Start of your Ending",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Survival of the Fittest",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Eye for a Eye",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Give Up the Goods",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Temperature's Rising",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Up North Trip",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Trife Life",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Q.U Hectic",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Right Back at You",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Cradle to the Grave",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Drink Away the Pain",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Shook Ones Pt2",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Party Over",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "An Evening With Silk Sonic",
+    "artist": "Bruno Mars",
+    "image": "https://cdn.sonemic.net/i/600/w/f60703c4e60be5e6024dcd62ccd4c26a/9382297/silk-sonic-an-evening-with-silk-sonic-Cover-Art.jpg",
+    "year": 2021,
+    "country": "Estados Unidos",
+    "main_genre": "Pop",
+    "genre": "Smooth Soul, Funk, Philly Soul, Pop Soul",
+    "duration": 37,
+    "rate": 4.6625,
+    "avg_rate": 4.5,
+    "like_percentage": 70,
+    "songs": [
+      {
+        "name": "Silk Sonic Intro",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Leave The Door Open",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Fly as Me",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "After Last Night",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Smoking Out The Window",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Put On a Smile",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "777",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Skate",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Love's Train",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Blast Off",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Queen is Dead",
+    "artist": "The Smiths",
+    "image": "https://cdn.sonemic.net/i/600/w/bf5a47a47914a047d43ef66e5342b6e0/14780388/the-smiths-the-queen-is-dead-Cover-Art.png",
+    "year": 1985,
+    "country": "Inglaterra",
+    "main_genre": "Rock New Wave 80s",
+    "genre": "Jangle pop, Indie Pop, Post Punk",
+    "duration": 37,
+    "rate": 4.6625,
+    "avg_rate": 4.5,
+    "like_percentage": 65,
+    "songs": [
+      {
+        "name": "The Queen is Dead",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Frankly Mr Shankly",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "I Know it's Over",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Never had no one Ever",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Cementery Gates",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Bigmouth Strikers Again",
+        "rate": 3,
+        "range": {
+          "low": 3,
+          "high": 3
+        }
+      },
+      {
+        "name": "The Boy with the Thorn in his Side",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Vicar In a Tutu",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "There is a Light that never Goes Out",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Some Girls are Bigger than others",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Songs in the Key of Life",
+    "artist": "Stevie Wonder",
+    "image": "https://cdn.sonemic.net/i/600/w/a64840577bdc1c19c23152bb77a4d054/7228470/stevie-wonder-songs-in-the-key-of-life-Cover-Art.jpg",
+    "year": 1976,
+    "country": "Estados Unidos",
+    "main_genre": "Soul - Funk - R&B",
+    "genre": "Soul, Funk, Pop",
+    "duration": 101,
+    "rate": 4.6625,
+    "avg_rate": 4.5,
+    "like_percentage": 60,
+    "songs": [
+      {
+        "name": "Love's in Need of Love Today",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Have a Talk With God",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Village Ghetto Land",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Contusion",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Sir Duke",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "I Wish",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Knocks me Off my Feet",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Pastime Paradise",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Summer Soft",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ordinary Pain",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Isn't She Lovely",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Joy Inside My Tears",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Black Man",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Ngiculela - Es una historia - I Am Singing",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "If It's Magic",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "As",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Another Star",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Saturn",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Ebony Eyes",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "All Day Sucker",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "In Rainbows",
+    "artist": "Radiohead",
+    "image": "https://cdn.sonemic.net/i/600/w/fadce3351784e528a8257b7c78f0b55a/14126517/radiohead-in-rainbows-Cover-Art.jpg",
+    "year": 2007,
+    "country": "Inglaterra",
+    "main_genre": "Rock New Wave 00s",
+    "genre": "Art Rock, Alternative Rock",
+    "duration": 43,
+    "rate": 4.6625,
+    "avg_rate": 4.5,
+    "like_percentage": 55,
+    "songs": [
+      {
+        "name": "15 Step",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Bodysnatchers",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Nude",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Weird Fishes / Arpeggi",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "All I need",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Faust Arp",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Reckoner",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "House of Cards",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Jigsaw Falling into Place",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Videotape",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Hit Me Hard and Soft",
+    "artist": "Billie Eilish",
+    "image": "https://cdn.sonemic.net/i/600/w/fbcf671e9f8652b18cf1921075268203/11988000/billie-eilish-hit-me-hard-and-soft-Cover-Art.jpg",
+    "year": 2024,
+    "country": "Estados Unidos",
+    "main_genre": "Pop",
+    "genre": "Alt-Pop, Contemporary R&B, Electropop",
+    "duration": 44,
+    "rate": 4.6625,
+    "avg_rate": 4.5,
+    "like_percentage": 55,
+    "songs": [
+      {
+        "name": "Skinny",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Lunch",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Chihiro",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Birds of a Feather",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Wildfllower",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "The Greatest",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "L'amour de ma Vie",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "The Diner",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Bittersuite",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Blue",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Toxicity",
+    "artist": "System of a Down",
+    "image": "https://cdn.sonemic.net/i/600/w/d8d317ba2e394ab679ec40004c52377f/5642354/system-of-a-down-toxicity-Cover-Art.jpg",
+    "year": 2001,
+    "country": "Estados Unidos",
+    "main_genre": "Alternative Metal",
+    "genre": "Alternative Metal, Nu Metal",
+    "duration": 44,
+    "rate": 4.6607,
+    "avg_rate": 4.5,
+    "like_percentage": 64.29,
+    "songs": [
+      {
+        "name": "Prision Song",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Needless",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Dear Dance",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Jet Pilot",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "X",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Chop Sue",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Bounce",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Forest",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "ATWA",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Science",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Shimmy",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Toxicity",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Psycho",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Aerials",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Rise and Fall of a Midwest Princess",
+    "artist": "Chappell Roan",
+    "image": "https://cdn.sonemic.net/i/600/w/832418379c181b36037087952305654c/11193458/chappell-roan-the-rise-and-fall-of-a-midwest-princess-Cover-Art.jpg",
+    "year": 2023,
+    "country": "Estados Unidos",
+    "main_genre": "Pop",
+    "genre": "Dance-Pop, Synthpop, Pop Rock, Electropop",
+    "duration": 49,
+    "rate": 4.6607,
+    "avg_rate": 4.5,
+    "like_percentage": 57.14,
+    "songs": [
+      {
+        "name": "Femininomenon",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Red Wine Supernova",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "After Midnight",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Coffe",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Casual",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Super Graphic Ultra Modern Girl",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Hot To Go",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "My Kink is Karma",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Picture You",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Kaleidoscope",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Pink Pony Club",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Naked in Mathattan",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "California",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Guilty Pleasure",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": true
+  },
+  {
+    "name": "SOUR",
+    "artist": "Olivia Rodrigo",
+    "image": "https://cdn.sonemic.net/i/600/w/2e3cbf2b570db861aef14d79c47260fd/8937386/olivia-rodrigo-sour-Cover-Art.jpg",
+    "year": 2021,
+    "country": "Estados Unidos",
+    "main_genre": "Pop",
+    "genre": "Singer-Songwriter, Pop Rock, Folk Pop, Alt-Pop",
+    "duration": 35,
+    "rate": 4.6591,
+    "avg_rate": 4.5,
+    "like_percentage": 50,
+    "songs": [
+      {
+        "name": "Brutal",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Traitor",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Drivers License",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "1 Step Forward, 3 Steps Back",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Deja Bu",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Good 4 U",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Enough for You",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Happier",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Jealousy Jealousy",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Favorite Crime",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Hope Ur OK",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "El Jardín de los presentes",
+    "artist": "Invisible",
+    "image": "https://cdn.sonemic.net/i/600/w/4d25491a42a232900ee124438e56e022/14106913/invisible-el-jardin-de-los-presentes-Cover-Art.png",
+    "year": 1976,
+    "country": "Argentina",
+    "main_genre": "Rock Clásico Hispano",
+    "genre": "Progressive Rock, Art Rock, Jazz-Rock",
+    "duration": 38,
+    "rate": 4.6563,
+    "avg_rate": 4.5,
+    "like_percentage": 62.5,
+    "songs": [
+      {
+        "name": "El Anillo del Capitan Beto",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Los Libros de la Buena Memoria",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Alarma Entre los Angeles",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Que Ves en el Cielo",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ruido de Magia",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Docientos Años",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "Niño Condenado",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Las Golondrinas de Plaza de Mayo",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Powerslave",
+    "artist": "Iron Maiden",
+    "image": "https://cdn.sonemic.net/i/600/w/0ebdd323443be0bc54500327c090cb09/3703272/iron-maiden-powerslave-Cover-Art.jpg",
+    "year": 1984,
+    "country": "Inglaterra",
+    "main_genre": "Heavy Metal",
+    "genre": "Heavy Metal, Progressive Metal",
+    "duration": 52,
+    "rate": 4.6563,
+    "avg_rate": 4.5,
+    "like_percentage": 62.5,
+    "songs": [
+      {
+        "name": "Aces High",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "2 Minutes to Midnight",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Losfer Words",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Flash of the Blade",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "The Duelists",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Back in the Village",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Powerslave",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Rime of the Ancient Mariner",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Nevermind",
+    "artist": "Nirvana",
+    "image": "https://cdn.sonemic.net/i/600/w/77b0087587cfff17d35de0fb200379a3/12369917/nirvana-nevermind-Cover-Art.jpg",
+    "year": 1991,
+    "country": "Estados Unidos",
+    "main_genre": "Rock New Wave 90s",
+    "genre": "Grunge, Alternative Rock",
+    "duration": 50,
+    "rate": 4.6563,
+    "avg_rate": 4.5,
+    "like_percentage": 58.33,
+    "songs": [
+      {
+        "name": "Smels Like Teen Spirit",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "In Bloom",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Come as You Are",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Breed",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Lithium",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Polly",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Territorial Pissings",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Drain You",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Lounge Act",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Stay Away",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "On a Plain",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Something in the Way",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Spiritual Healing",
+    "artist": "Death",
+    "image": "https://cdn.sonemic.net/i/600/w/8c5d9ee40c8f7f241d2b03242ca9dd49/2656291/death-spiritual-healing-Cover-Art.jpg",
+    "year": 1990,
+    "country": "Estados Unidos",
+    "main_genre": "Death Metal Classic",
+    "genre": "Death Metal, Technical Death Metal",
+    "duration": 44,
+    "rate": 4.6563,
+    "avg_rate": 4.5,
+    "like_percentage": 56.25,
+    "songs": [
+      {
+        "name": "Life Monstrosity",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Altering the Future",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Defensive Personalities",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Within the Mind",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Spiritual Healing",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Low Life",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Genetic Reconstruction",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Killing Spree",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Debi Tirar mas Fotos",
+    "artist": "Bad Bunny",
+    "image": "https://cdn.sonemic.net/i/600/w/78539c15edcd36b9b00e9ec841fb7ca3/12891718/bad-bunny-debi-tirar-mas-fotos-Cover-Art.jpg",
+    "year": 2025,
+    "country": "Puerto Rico",
+    "main_genre": "Reggaeton",
+    "genre": "Reggaetón, Salsa, Plena, Bomba, Jibaro",
+    "duration": 62,
+    "rate": 4.6544,
+    "avg_rate": 4.5,
+    "like_percentage": 64.71,
+    "songs": [
+      {
+        "name": "NuevaYol",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Voy a Llevarte pa PR",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Baile Inolvidable",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Perfumito Nuevo",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Weltita",
+        "rate": 3.625,
+        "range": {
+          "low": 3.5,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Velda",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "El Club",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Ke Tu Te Cre",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Bokete",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Klou Frens",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Turista",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Cafe con Ron",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Pitorro de Coco",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Lo Que le Paso a Hawaii",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "EOo",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "DTMF",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "La Mudanza",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "¿A dónde vamos?",
+    "artist": "Morat",
+    "image": "https://cdn.sonemic.net/i/600/w/b016775c6ec16bd6544f59b1364fddc5/9314612/morat-a-donde-vamos-Cover-Art.jpg",
+    "year": 2021,
+    "country": "Colombia",
+    "main_genre": "Balada",
+    "genre": "Canción melódica, Pop Rock",
+    "duration": 47,
+    "rate": 4.6518,
+    "avg_rate": 4.5,
+    "like_percentage": 60.71,
+    "songs": [
+      {
+        "name": "A Donde Vamos",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "No Termino",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "En Coma",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Al Aire",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "De Cero",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Primeras Veces",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "No Hay más que Hablar",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Enamórate de alguien más",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Date la Vuelta",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Idiota",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Bajo la Mesa",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Nunca te Olvide",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Mi Pesadilla",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Simplemente Pasan",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Count Your Blessings",
+    "artist": "Bring Me the Horizon",
+    "image": "https://cdn.sonemic.net/i/600/w/434ba7ff64331be881c4cc5bd24de44f/10996405/bring-me-the-horizon-count-your-blessings-Cover-Art.jpg",
+    "year": 2006,
+    "country": "Inglaterra",
+    "main_genre": "Deathcore",
+    "genre": "Deathcore",
+    "duration": 37,
+    "rate": 4.65,
+    "avg_rate": 4.5,
+    "like_percentage": 65,
+    "songs": [
+      {
+        "name": "Pray For Plages",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Tell Slater not to Wash His Dick",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Braile (For Stevie Wonder's Eyes Only)",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "A Lot Like Vegas",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Black & Blue",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Slow Dance",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Licor & Lost Love",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Medusa (I Used to )",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Fiveteen Fanthoms Counting",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Off The Hezay",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Red",
+    "artist": "King Crimson",
+    "image": "https://cdn.sonemic.net/i/600/w/8340dbdb07093199f38d7a61df74e0d0/10733413/king-crimson-red-Cover-Art.png",
+    "year": 1974,
+    "country": "Inglaterra",
+    "main_genre": "Rock Prog Classic",
+    "genre": "Progressive Rock, Hard Rock",
+    "duration": 40,
+    "rate": 4.65,
+    "avg_rate": 4.5,
+    "like_percentage": 60,
+    "songs": [
+      {
+        "name": "Red",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Fallen Angel",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Another Red Nightmare",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Providence",
+        "rate": 3.125,
+        "range": {
+          "low": 3,
+          "high": 3.25
+        }
+      },
+      {
+        "name": "Starless",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "George Harrison",
+    "artist": "George Harrison",
+    "image": "https://cdn.sonemic.net/i/600/w/d032ab7683747c61568e1fa676778d1e/3072142/george-harrison-george-harrison-Cover-Art.jpg",
+    "year": 1979,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 70s",
+    "genre": "Soft Rock, Pop Rock",
+    "duration": 40,
+    "rate": 4.65,
+    "avg_rate": 4.5,
+    "like_percentage": 60,
+    "songs": [
+      {
+        "name": "Love Comes to Everyone",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "No Guilty",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Here Comes the Moon",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Soft Hearted Hanna",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Blow Away",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Faster",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Dark Sweet Lady",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Your Love is Forever",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Soft Touch",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "If you Belive",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "image": "https://cdn.sonemic.net/i/600/w/453c894319abeb8df7ef8df492e18ffa/2908667/led-zeppelin-led-zeppelin-iii-Cover-Art.jpg",
+    "year": 1970,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 70s",
+    "genre": "Folk Rock, Blues Rock, Hard Rock",
+    "duration": 44,
+    "rate": 4.65,
+    "avg_rate": 4.5,
+    "like_percentage": 55,
+    "songs": [
+      {
+        "name": "Immigrant Song",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Friends",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Celebration Day",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Since I've Been Loving You",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Out on the Tiles",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Gallows Pole",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Teangerine",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "That's The Way",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Born-Y-Aur Sromp",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Hats Off to Roy Harper",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Scream Aim Fire",
+    "artist": "Bullet for My Valentine",
+    "image": "https://cdn.sonemic.net/i/600/w/431f850435c6ce142fe3e9ea17084928/7738538/bullet-for-my-valentine-scream-aim-fire-Cover-Art.jpg",
+    "year": 2008,
+    "country": "Inglaterra",
+    "main_genre": "Metalcore",
+    "genre": "Melodic Metalcore",
+    "duration": 53,
+    "rate": 4.6477,
+    "avg_rate": 4.5,
+    "like_percentage": 59.09,
+    "songs": [
+      {
+        "name": "Scream Aim Fire",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Eye of the Storm",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Heart's Burst into Fire",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Walking the Demon",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Disappear",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Deliver us from Evil",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Take it Out on Me",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Say Goodnight",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "End of Days",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Last to Know",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Forever and Always",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Oddesey and Oracle",
+    "artist": "The Zombies",
+    "image": "https://cdn.sonemic.net/i/600/w/b19c37c79bb428c5a759170078479de7/10607815/the-zombies-odessey-and-oracle-Cover-Art.jpg",
+    "year": 1967,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 60s",
+    "genre": "Psychedelic Rock, Baroque Pop",
+    "duration": 36,
+    "rate": 4.6458,
+    "avg_rate": 4.5,
+    "like_percentage": 66.67,
+    "songs": [
+      {
+        "name": "Care of Cell 44",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "A Rose for Emily",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Maybe After He's Gone",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Beechwood Park",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Brief Candles",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Hung Up On a Dream",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Changes",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "I Want Her She Wants Me",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "This Will Be Our Year",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Butcher's Tale",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Friends of Mine",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Time of the Season",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "image": "https://cdn.sonemic.net/i/600/w/0cba86ceac92f4aecd28289edb8ec11d/12449233/sabrina-carpenter-short-n-sweet-Cover-Art.jpg",
+    "year": 2024,
+    "country": "Estados Unidos",
+    "main_genre": "Pop",
+    "genre": "Dance-Pop, Contemporary R&B, Pop Rock",
+    "duration": 37,
+    "rate": 4.6458,
+    "avg_rate": 4.5,
+    "like_percentage": 75,
+    "songs": [
+      {
+        "name": "Taste",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Please, Please, Please",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Good Graces",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "The Sharpest Tool",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Coincidence",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Bed Chem",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Expresso",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Dumb and Poetic",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Slim Picking",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Juno",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Lie to Girls",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Don't Smile",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Aranjuez",
+    "artist": "AlcolirykoZ",
+    "image": "https://cdn.sonemic.net/i/600/w/7b085ecb14d7926330600c7a321f5205/9152719/alcolirykoz-aranjuez-Cover-Art.jpg",
+    "year": 2021,
+    "country": "Colombia",
+    "main_genre": "Hip Hop Hispano",
+    "genre": "Conscious Hip Hop, Hardcore Hip Hop, Boom Bap",
+    "duration": 46,
+    "rate": 4.6458,
+    "avg_rate": 4.5,
+    "like_percentage": 58.33,
+    "songs": [
+      {
+        "name": "Aguanile",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Casa de Nariño",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "No Está en Venta",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Reflujo",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Piñata en el 301",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Discos Fuentes",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Aranjuez",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Valdor",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Sintomas de Popeye",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Pambele",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "El Tour del Sing Sing",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Todo lo Bueno Tarda",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Discovery",
+    "artist": "Daft Punk",
+    "image": "https://cdn.sonemic.net/i/600/w/f257109d44300506428e21138338e884/13215963/daft-punk-discovery-Cover-Art.jpg",
+    "year": 2001,
+    "country": "Francia",
+    "main_genre": "Electronica",
+    "genre": "House, Electro-Disco, Funky-House",
+    "duration": 61,
+    "rate": 4.6442,
+    "avg_rate": null,
+    "like_percentage": 57.69,
+    "songs": [
+      {
+        "name": "One More Time",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Aerodynamic",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Digital Love",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Harder, Beter, Faster, Stronger",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Crecsendolls",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Nightvision",
+        "rate": null,
+        "range": {
+          "low": null,
+          "high": null
+        }
+      },
+      {
+        "name": "Super Heroes",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "High Life",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Something About You",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Voyageur",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Verdis Quo",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Short Circuit",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Face To Face",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Too Long",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "El Amor despues del Amor",
+    "artist": "Fito Paez",
+    "image": "https://cdn.sonemic.net/i/600/w/e3f68a0466b36c2ce694415a9971bd94/12205831/fito-paez-el-amor-despues-del-amor-Cover-Art.jpg",
+    "year": 1992,
+    "country": "Argentina",
+    "main_genre": "Rock New Wave Hispano",
+    "genre": "Pop Rock",
+    "duration": 63,
+    "rate": 4.6429,
+    "avg_rate": 4.5,
+    "like_percentage": 53.57,
+    "songs": [
+      {
+        "name": "El Amor despues del Amor",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Dos Dias en la Vida",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "La Veronica",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Trafico por Karmandu",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Petalo de Sal",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Saha, Sisi y el Circulo de Baba",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Un Vestido y un Amor",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Tumbas de la Gloria",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "La Rueda Magica",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Creo",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "El Muro de los Lamentos",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "La Balada de Dona Helena",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Brillante Sobre el Mic",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "A Rodar Mi Vida",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Siembra",
+    "artist": "Ruben Blades & Willie Colon",
+    "image": "https://cdn.sonemic.net/i/600/w/3cfd75c1a883a92ad5cacbc05f8934cb/7492370/willie-colon-and-ruben-blades-siembra-Cover-Art.jpg",
+    "year": 1978,
+    "country": "Panama",
+    "main_genre": "Salsa",
+    "genre": "Salsa, Salsa Intelectual",
+    "duration": 43,
+    "rate": 4.6429,
+    "avg_rate": 4.5,
+    "like_percentage": 50,
+    "songs": [
+      {
+        "name": "Plastico",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Buscando Guayaba",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Pedro Navaja",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Maria Lionza",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Ojos",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Dime",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Siembra",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "De mysteriis dom Sathanas",
+    "artist": "Mayhem",
+    "image": "https://cdn.sonemic.net/i/600/w/4d3b9ee68cd23f771c43af37f200959b/1223096/mayhem-de-mysteriis-dom-sathanas-Cover-Art.jpg",
+    "year": 1994,
+    "country": "Noruega",
+    "main_genre": "Black Metal",
+    "genre": "Black Metal",
+    "duration": 46,
+    "rate": 4.6406,
+    "avg_rate": null,
+    "like_percentage": 62.5,
+    "songs": [
+      {
+        "name": "Funeral Fog",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Freezing Moon",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Crused in Eternity",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Pagan Fears",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Live Eternal",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "From the Dark Past",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Bured by Time and Dust",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "De Mysteriis Dom Sathanas",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Hotel California",
+    "artist": "Eagles",
+    "image": "https://cdn.sonemic.net/i/600/w/38ffc4a6e0fcef5e14a3ba3db2a1bb76/10747570/eagles-hotel-california-Cover-Art.jpg",
+    "year": 1976,
+    "country": "Estados Unidos",
+    "main_genre": "Rock Classic 70s",
+    "genre": "Pop Rock, Country Rock, Soft Rock",
+    "duration": 44,
+    "rate": 4.6406,
+    "avg_rate": 4.5,
+    "like_percentage": 56.25,
+    "songs": [
+      {
+        "name": "Hotel California",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "New Kid in Town",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Life in the Fast Lane",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Wested Time",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Victim of Love",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Pretty Maids All in a Row",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Try and Love Again",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "The Last Resort",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "London Calling",
+    "artist": "The Clash",
+    "image": "https://cdn.sonemic.net/i/600/w/1261e39e189940ce7345ec31d203d2ef/10010379/the-clash-london-calling-Cover-Art.jpg",
+    "year": 1979,
+    "country": "Inglaterra",
+    "main_genre": "Punk Rock",
+    "genre": "Punk Rock, Rockabilly, Ska, Reggae",
+    "duration": 65,
+    "rate": 4.6382,
+    "avg_rate": 4.5,
+    "like_percentage": 50,
+    "songs": [
+      {
+        "name": "London Calling",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Brand New Cadillac",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Jimmy Jazz",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Hatefull",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Rudie Can't Fail",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Spanish Bombs",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "The Right Profile",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Lost in the Supermarket",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Clampdown",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "The Guns of Brixton",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Wrog'em Boyo",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Death or Glory",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Koka Kola",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Card Cheap",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Lover's Rock",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Four Horsemen",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "I'm not Down",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Revolution Rock",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Train in Vain (Stand by Me)",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Historias mínimas",
+    "artist": "Los PetitFellas",
+    "image": "https://cdn.sonemic.net/i/600/w/d9f77fdb2230e75e95795556c5d06f11/5469973/los-petitfellas-historias-minimas-Cover-Art.jpg",
+    "year": 2014,
+    "country": "Colombia",
+    "main_genre": "Hip Hop Hispano",
+    "genre": "Jazz Rap, Boom Bap",
+    "duration": 51,
+    "rate": 4.6354,
+    "avg_rate": 4.5,
+    "like_percentage": 66.67,
+    "songs": [
+      {
+        "name": "Microphone Check",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Simpatica Fiesta",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Sindrome de Fregoli",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Antes de Morir",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Rock & Love",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Historias Minimas",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Skills",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Diccionario",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Blues",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Hoy",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Manual de Instrucciones para Conducir de Noche",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Brindo",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+    "artist": "Feid",
+    "image": "https://cdn.sonemic.net/i/600/w/d254fde309b1bbabef8ba8f676ae6ac5/14305908/feid-feliz-cumpleanos-ferxxo-te-pirateamos-el-album-Cover-Art.jpg",
+    "year": 2022,
+    "country": "Colombia",
+    "main_genre": "Reggaeton",
+    "genre": "Reggaeton, Contemporary R&B",
+    "duration": 39,
+    "rate": 4.6339,
+    "avg_rate": 4.5,
+    "like_percentage": 64.29,
+    "songs": [
+      {
+        "name": "Castigo",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Feliz Cumpleaños FERXXO",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Nieve",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "FERXO 100",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "BELIXE",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "X Q Te Pones Asi",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "X20X",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Prohibido",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Leidy Mi Amor",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Quemando Calorias",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "El Aguante",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Si te la Encuentras por Ahi",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Normal",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "La Buena Fai",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Madvillainy",
+    "artist": "MF DOOM",
+    "image": "https://cdn.sonemic.net/i/600/w/9c52ece824b06220dd56f69119aa5739/13200445/madvillain-madvillainy-Cover-Art.jpg",
+    "year": 2004,
+    "country": "Inglaterra",
+    "main_genre": "Hip Hop New Wave",
+    "genre": "Abstract Hip Hop, Jazz Rap, Experimental Hip Hop",
+    "duration": 47,
+    "rate": 4.631,
+    "avg_rate": 4.5,
+    "like_percentage": 45.24,
+    "songs": [
+      {
+        "name": "Accordeon",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Meat Grinder",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Bistro",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Raid",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "American's Most Blunted",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Sickfit",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Rainbows",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Curls",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Do not Fire",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Money Countdown",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "The Shadows of Tomorrow",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Operation Lifesaver",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Figaro",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Hardcore Hustle",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Strange Ways",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Fancy Clown",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Eye",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Villians Theme",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "All Caps",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Great Day",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Rinesthone Cowboy",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Hope",
+    "artist": "Klaatu",
+    "image": "https://cdn.sonemic.net/i/600/w/4a1d59c5d8fda4e957924c4cea090c99/2004321/klaatu-hope-Cover-Art.jpg",
+    "year": 1977,
+    "country": "Canada",
+    "main_genre": "Rock Classic 70s",
+    "genre": "Symphony rock, Progressive Por, Art Rock",
+    "duration": 40,
+    "rate": 4.625,
+    "avg_rate": 4.5,
+    "like_percentage": 62.5,
+    "songs": [
+      {
+        "name": "We're Off You Know",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Madman",
+        "rate": 3,
+        "range": {
+          "low": 3,
+          "high": 3
+        }
+      },
+      {
+        "name": "Around The Universe in Eighty Days",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Long Live Poitzania",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "The Loneliest of Creatures",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Prelude",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "So Said the Lighthouse Keeper",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Hope",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Fear of a Blank Planet",
+    "artist": "Porcupine Tree",
+    "image": "https://cdn.sonemic.net/i/600/w/e75dd99ec08a5ed41201180ad1ded906/10499893/porcupine-tree-fear-of-a-blank-planet-Cover-Art.jpg",
+    "year": 2007,
+    "country": "Inglaterra",
+    "main_genre": "Neo Prog - Metal Prog",
+    "genre": "Progressive Metal, Progressive Rock",
+    "duration": 51,
+    "rate": 4.625,
+    "avg_rate": 4.5,
+    "like_percentage": 58.33,
+    "songs": [
+      {
+        "name": "Fear of a Blank Planet",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "My Ashes",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Anestethize",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Sentimental",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Way Out of Here",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Sleep Together",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Remain in Light",
+    "artist": "Talking Heads",
+    "image": "https://cdn.sonemic.net/i/600/w/a76d8d436ab1f9c3a0478cf40e2cad83/5627825/talking-heads-remain-in-light-Cover-Art.jpg",
+    "year": 1980,
+    "country": "Estados Unidos",
+    "main_genre": "Post-punk - Dream Pop - New Wave",
+    "genre": "Afro-Funk, New Wave, Post-Punk",
+    "duration": 40,
+    "rate": 4.625,
+    "avg_rate": 4.5,
+    "like_percentage": 56.25,
+    "songs": [
+      {
+        "name": "Born Under Punches (The Heat Goes On)",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Crosseyed and Painless",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Great Curve",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Once in a Lifetime",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Houses in Motion",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Seen and not Seen",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Listening Wind",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "The Overload",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Perpetual Burn",
+    "artist": "Jason Becker",
+    "image": "https://cdn.sonemic.net/i/600/w/b837afbbf0344a763ad887d9ede41d62/12985537/jason-becker-perpetual-burn-Cover-Art.jpg",
+    "year": 1988,
+    "country": "Estados Unidos",
+    "main_genre": "Guitar Master",
+    "genre": "Neoclassical Metal, Progressive Metal",
+    "duration": 42,
+    "rate": 4.625,
+    "avg_rate": 4.5,
+    "like_percentage": 56.25,
+    "songs": [
+      {
+        "name": "Altitudes",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Perpetual Burn",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Mabel's Fatal Fable",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Air",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Temple of the Absurd",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Eleven Blue Egyptians",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Dweller in the Cellar",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Opus Pocus",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "La trenza",
+    "artist": "Mon Laferte",
+    "image": "https://cdn.sonemic.net/i/600/w/e0bc6da528d4b75018aec3b8f3d5a785/14260061/mon-laferte-la-trenza-Cover-Art.jpg",
+    "year": 2017,
+    "country": "Chile",
+    "main_genre": "Folklore Hispano",
+    "genre": "Pop, Folk Pop, Bolero, Chamber Pop",
+    "duration": 40,
+    "rate": 4.625,
+    "avg_rate": 4.5,
+    "like_percentage": 54.55,
+    "songs": [
+      {
+        "name": "Pa Donde se Fue",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Que Si",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Mi Buen Amor",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Ana",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Amarrame",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Yo te Qui",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Primaveral",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "No te Fumes mi Marihuana",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Cielito de Abril",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Flaco",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "La Trenza",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Rumours",
+    "artist": "Fleetwood Mac",
+    "image": "https://cdn.sonemic.net/i/600/w/92a30064c9a49d64c2885fac0bbbbeea/11613626/fleetwood-mac-rumours-Cover-Art.jpg",
+    "year": 1977,
+    "country": "Inglaterra",
+    "main_genre": "Rock Classic 70s",
+    "genre": "Pop Rock, Soft Rock, Flok Rock",
+    "duration": 39,
+    "rate": 4.625,
+    "avg_rate": 4.5,
+    "like_percentage": 54.55,
+    "songs": [
+      {
+        "name": "Second Hand News",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Dreams",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Never Going Back Again",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Don't Stop",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Go Your Own Way",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Songbird",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "The Chain",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "You Make Loving Fun",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "I Don't Want to Know",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Oh Daddy",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Gold Dust Woman",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "La Grasa de las Capitales",
+    "artist": "Seru Giran",
+    "image": "https://cdn.sonemic.net/i/600/w/2ea2a89d09adb54defc87f8e47483355/12203184/seru-giran-grasa-de-las-capitales-Cover-Art.jpg",
+    "year": 1979,
+    "country": "Argentina",
+    "main_genre": "Rock Clasico Hispano",
+    "genre": "Progressive Rock, Jazz-Rock",
+    "duration": 43,
+    "rate": 4.625,
+    "avg_rate": 4.5,
+    "like_percentage": 50,
+    "songs": [
+      {
+        "name": "La grasa de las capitales",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "San Fransisco y el Lobo",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Perro Andaluz",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Frecuencia Modulada",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Viernes, 3AM",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Noche de Perros",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Los Sobrevivientes",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Paranoia y Soledad",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Cancion de Hollywood",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Toto IV",
+    "artist": "Toto",
+    "image": "https://cdn.sonemic.net/i/600/w/6b3d9c690d8b25ac110de7521615ef42/1380100/toto-iv-Cover-Art.jpg",
+    "year": 1982,
+    "country": "Estados Unidos",
+    "main_genre": "Rock New Wage 80s",
+    "genre": "Pop Rock, Soft Rock",
+    "duration": 42,
+    "rate": 4.6125,
+    "avg_rate": null,
+    "like_percentage": 60,
+    "songs": [
+      {
+        "name": "Roxana",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Make Belive",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "I Won't Hold You Back",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Good For Your",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "It's a Feeling",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Afraid of Love",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Lovers in the Night",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "We Made It",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Waiting for Your Love",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Africa",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Exodus",
+    "artist": "Bob Marley & The Wailers",
+    "image": "https://cdn.sonemic.net/i/600/w/0136e7eec4fbe2c34e92884065643fb0/4228456/bob-marley-and-the-wailers-exodus-Cover-Art.jpg",
+    "year": 1977,
+    "country": "Jamaica",
+    "main_genre": "Roots Reggae",
+    "genre": "Roots Reggae, Pop Reggae",
+    "duration": 38,
+    "rate": 4.6001,
+    "avg_rate": 4.5,
+    "like_percentage": 60,
+    "songs": [
+      {
+        "name": "Natural Mystic",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "So Much Things To Say",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Guiltiness",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "The Heaten",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Exodus",
+        "rate": 3.875,
+        "range": {
+          "low": 3.75,
+          "high": 4
+        }
+      },
+      {
+        "name": "Jamming",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Wait in Vain",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Turn Your Lights Down Low",
+        "rate": 4.125,
+        "range": {
+          "low": 4,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Three Litte Birds",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "One Love / People Get Ready",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "FERXXOCALIPSYS",
+    "artist": "Feid",
+    "image": "https://cdn.sonemic.net/i/600/w/4e98c839edf170b8ed1dd930f3decf8d/11556173/feid-ferxxocalipsis-Cover-Art.jpg",
+    "year": 2023,
+    "country": "Colombia",
+    "main_genre": "Reggaeton",
+    "genre": "Reggaeton, electronica, pop",
+    "duration": 26,
+    "rate": 4.6,
+    "avg_rate": 4.5,
+    "like_percentage": 55,
+    "songs": [
+      {
+        "name": "Alakran",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "50 Palos",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "La Vuelta",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "Cual es Esa",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Interlude",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Luna",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Esquirla",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Desquite",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Yo AK",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Classy 101",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "image": "https://cdn.sonemic.net/i/600/w/a4ce81072c190a3c9bb44017ebb83cda/8972823/billie-eilish-happier-than-ever-Cover-Art.jpg",
+    "year": 2021,
+    "country": "Estados Unidos",
+    "main_genre": "Pop",
+    "genre": "Alt-Pop, Contemporary R&B, Electropop",
+    "duration": 56,
+    "rate": 4.6,
+    "avg_rate": 4.5,
+    "like_percentage": 50,
+    "songs": [
+      {
+        "name": "I'm getting older",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "I didn't Change my Number",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Billie Bossa Nova",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "My Future",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Oxytocine",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Gold Wing",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Lost Cause",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Halley's Commet",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Overheaded",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Everybody Dies",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Your Power",
+        "rate": 3.5,
+        "range": {
+          "low": 3.5,
+          "high": 3.5
+        }
+      },
+      {
+        "name": "NDA",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Therefore I am",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Happier than Ever",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Male Fantasy",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Mirage",
+    "artist": "Camel",
+    "image": "https://cdn.sonemic.net/i/600/w/1fa34534d48c830beba2b646efca01e8/10571035/camel-mirage-Cover-Art.jpg",
+    "year": 1974,
+    "country": "Inglaterra",
+    "main_genre": "Rock Prog Classic",
+    "genre": "Symphonic Prog, Progressive Rock",
+    "duration": 39,
+    "rate": 4.6,
+    "avg_rate": null,
+    "like_percentage": 40,
+    "songs": [
+      {
+        "name": "Freefall",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Super Twister",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Nimrodel",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Earthrise",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Lady Fantasy",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Menace",
+    "artist": "Crisix",
+    "image": "https://cdn.sonemic.net/i/600/w/814cbd45ba286b559677698203522b06/3921742/crisix-the-menace-Cover-Art.jpg",
+    "year": 2011,
+    "country": "España",
+    "main_genre": "Thrash Metal New Wave",
+    "genre": "Thrash Metal",
+    "duration": 67,
+    "rate": 4.6023,
+    "avg_rate": 4.5,
+    "like_percentage": 59.09,
+    "songs": [
+      {
+        "name": "Ultra Thrash",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "Internal Pollution",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Flesh Collector Machine",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Holy Punishment",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Dead by the Fistful of Violence",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Spawn",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Brutal Gadget",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "The Last Monkey",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Unleash the Beast",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Mumified by the Society",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "Electric Possesion",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Keeper of the Seven Keys Part I",
+    "artist": "Helloween",
+    "image": "https://cdn.sonemic.net/i/600/w/5e1935bddb4810e73c0f5939fda41191/6738053/helloween-keeper-of-the-seven-keys-part-i-Cover-Art.jpg",
+    "year": 1987,
+    "country": "Alemania",
+    "main_genre": "Power Metal",
+    "genre": "Power Metal, Heavy Metal",
+    "duration": 38,
+    "rate": 4.5625,
+    "avg_rate": 4.5,
+    "like_percentage": 58.33,
+    "songs": [
+      {
+        "name": "I'm Alive",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "A Little Time",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Twilight of the Gods",
+        "rate": 4.875,
+        "range": {
+          "low": 4.75,
+          "high": 5
+        }
+      },
+      {
+        "name": "A Tale That Wasn't Right",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Future World",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Helloween",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Dr. Feelgood",
+    "artist": "Mötley Crüe",
+    "image": "https://cdn.sonemic.net/i/600/w/db45e7ab5b5b128b1497bbf2e0cd5477/13243854/motley-crue-dr-feelgood-Cover-Art.png",
+    "year": 1989,
+    "country": "Estados Unidos",
+    "main_genre": "Glam Metal",
+    "genre": "Glam Metal, Hard Rock",
+    "duration": 46,
+    "rate": 4.5625,
+    "avg_rate": 4.5,
+    "like_percentage": 45,
+    "songs": [
+      {
+        "name": "Dr Feelgood",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Slice of your Pie",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Ratlesnake Shake",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Kickstar my Heart",
+        "rate": 4.625,
+        "range": {
+          "low": 4.5,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "Without You",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "S.O.S (Same Old Situation)",
+        "rate": 5.5,
+        "range": {
+          "low": 5.5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Sticky Sweet",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "She Goes Down",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Don't Go Away Mad (Just Go Away)",
+        "rate": 4,
+        "range": {
+          "low": 4,
+          "high": 4
+        }
+      },
+      {
+        "name": "Time to Change",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "The Velvet Underground & Nico",
+    "artist": "The Velvet Underground & Nico",
+    "image": "https://cdn.sonemic.net/i/600/w/82eab011e8337b724c4aa6eb6a588276/14191308/the-velvet-underground-and-nico-the-velvet-underground-and-nico-Cover-Art.jpg",
+    "year": 1967,
+    "country": "Estados Unidos",
+    "main_genre": "Rock Classic 60s",
+    "genre": "Art Rock, Experimental Rock, Noise Rock",
+    "duration": 48,
+    "rate": 4.4659,
+    "avg_rate": 4,
+    "like_percentage": 59.09,
+    "songs": [
+      {
+        "name": "Sunday Morning",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "I'm Waiting for my Men",
+        "rate": 4.5,
+        "range": {
+          "low": 4.5,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "Fatal Femme",
+        "rate": 3.75,
+        "range": {
+          "low": 3.75,
+          "high": 3.75
+        }
+      },
+      {
+        "name": "Venus and Furious",
+        "rate": 5.25,
+        "range": {
+          "low": 5,
+          "high": 5.5
+        }
+      },
+      {
+        "name": "Run Run Run",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "All Tomorrow Parties",
+        "rate": 4.25,
+        "range": {
+          "low": 4.25,
+          "high": 4.25
+        }
+      },
+      {
+        "name": "Heroine",
+        "rate": 5,
+        "range": {
+          "low": 5,
+          "high": 5
+        }
+      },
+      {
+        "name": "There's She Goes Again",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "I'll be Your Mirror",
+        "rate": 4.375,
+        "range": {
+          "low": 4.25,
+          "high": 4.5
+        }
+      },
+      {
+        "name": "The Black Angel Death's Song",
+        "rate": 4.75,
+        "range": {
+          "low": 4.75,
+          "high": 4.75
+        }
+      },
+      {
+        "name": "European Son",
+        "rate": 3,
+        "range": {
+          "low": 3,
+          "high": 3
+        }
+      }
+    ],
+    "listened": false
+  },
+  {
+    "name": "Close to the Edge",
+    "artist": "Yes",
+    "year": 1972,
+    "country": "Inglaterra",
+    "genre": "Progressive Rock, Symphonic Prog",
+    "main_genre": "Rock Prog Classic",
+    "minutes": 42,
+    "image": "https://cdn.sonemic.net/i/600/w/c2c88287610e88644efe3a60826293fb/14073031/yes-close-to-the-edge-Cover-Art.jpg",
+    "listened": false,
+    "rate": 4.6875,
+    "avg_rate": 4.6875,
+    "songs": [
+      {
+        "name": "Close to The Edge",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "And You And I",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "Siberian Khatru",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "America",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25
+      }
+    ],
+    "like_percentage": 62.5,
+    "duration": 42
+  }
+]
