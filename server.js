@@ -116,17 +116,12 @@ app.put('/api/goals', async (req, res) => {
 });
 
 // Start server
-if (require.main === module) {
-    app.listen(PORT, () => {
-        console.log(`🎵 Music App server running on http://localhost:${PORT}`);
-        console.log(`📁 Serving files from: ${__dirname}`);
-        console.log(`🔌 API endpoints available:`);
-        console.log(`   GET/PUT  /api/rotation`);
-        console.log(`   GET/PUT  /api/ratings`);
-        console.log(`   GET/PUT  /api/vinyl`);
-        console.log(`   GET/PUT  /api/goals`);
-    });
-}
-
-// Export for Vercel
-module.exports = app;
+app.listen(PORT, () => {
+    console.log(`🎵 Music App server running on http://localhost:${PORT}`);
+    console.log(`📁 Serving files from: ${__dirname}`);
+    console.log(`🔌 API endpoints available:`);
+    console.log(`   GET/PUT  /api/rotation`);
+    console.log(`   GET/PUT  /api/ratings`);
+    console.log(`   GET/PUT  /api/vinyl`);
+    console.log(`   GET/PUT  /api/goals`);
+});

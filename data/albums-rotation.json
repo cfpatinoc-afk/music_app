@@ -31,12 +31,12 @@
     "year": 2013,
     "country": "Colombia",
     "genre": "Balada, Rock Pop",
-    "pending_listens": 1,
+    "pending_listens": 0,
     "main_genre": "Balada",
     "minutes": 51,
-    "remaining": 51,
+    "remaining": 0,
     "image": "https://cdn.sonemic.net/i/600/w/022dbbacd98169a1790f580db26fecd8/5723865/juan-pablo-vega-nada-personal-Cover-Art.jpg",
-    "listened": false
+    "listened": true
   },
   {
     "name": "Como pez en el Hielo",
