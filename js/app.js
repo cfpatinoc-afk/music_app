@@ -7,7 +7,8 @@ class MusicApp {
         this.vinylData = [];
         this.goalsData = { daily_goal: 5.5336, weekly_goal: 5.222 };
         this.initialRotationDays = 0; // Store initial rotation time for progress calculation
-        this.apiBaseUrl = 'http://localhost:8080/api';
+        // Use current origin for API URL (works for both localhost and Railway)
+        this.apiBaseUrl = window.location.origin + '/api';
         this.init();
     }
 
