@@ -10,12 +10,16 @@
     <div class="container">
         <header>
             <h1>🎵 Mi Colección Musical</h1>
-            <nav class="tabs">
-                <button class="tab active" data-tab="ratings">Álbumes Calificados</button>
-                <button class="tab" data-tab="vinyl">Vinilos</button>
-                <button class="tab" data-tab="rotation">Rotación</button>
-                <button class="tab" data-tab="dashboard">Dashboard</button>
-            </nav>
+            <div class="header-controls">
+                <nav class="tabs">
+                    <button class="tab active" data-tab="ratings">Álbumes Calificados</button>
+                    <button class="tab" data-tab="vinyl">Vinilos</button>
+                    <button class="tab" data-tab="rotation">Rotación</button>
+                    <button class="tab" data-tab="dashboard">Dashboard</button>
+                </nav>
+                <button id="login-btn" class="login-btn">🔐 Login</button>
+                <button id="logout-btn" class="logout-btn" style="display: none;">🚪 Logout</button>
+            </div>
         </header>
 
         <main>
@@ -561,6 +565,30 @@
                 <div class="form-actions">
                     <button id="save-song-rating-btn" class="save-song-rating-button">Guardar Cambios</button>
                     <button onclick="document.getElementById('edit-song-rating-modal').classList.remove('active')" class="cancel-button">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Login Modal -->
+    <div id="login-modal" class="modal">
+        <div class="modal-content">
+            <button class="close-modal" onclick="document.getElementById('login-modal').classList.remove('active')">&times;</button>
+            <div class="modal-header">
+                <h2>🔐 Login</h2>
+            </div>
+            <div class="login-form">
+                <div class="form-group">
+                    <label for="login-username">Usuario</label>
+                    <input type="text" id="login-username" placeholder="Ingresa tu usuario">
+                </div>
+                <div class="form-group">
+                    <label for="login-password">Contraseña</label>
+                    <input type="password" id="login-password" placeholder="Ingresa tu contraseña">
+                </div>
+                <div class="form-actions">
+                    <button id="login-submit-btn" class="login-submit-button">Iniciar Sesión</button>
+                    <button onclick="document.getElementById('login-modal').classList.remove('active')" class="cancel-button">Cancelar</button>
                 </div>
             </div>
         </div>

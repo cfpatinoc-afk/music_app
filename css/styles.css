@@ -28,6 +28,14 @@ header {
     text-align: center;
 }
 
+.header-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
 header h1 {
     font-size: 2.5em;
     margin-bottom: 20px;
@@ -127,6 +135,41 @@ main {
 }
 
 .download-btn:hover {
+    background: #5568d3;
+}
+
+.login-btn, .logout-btn {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: all 0.3s ease;
+}
+
+.login-btn:hover, .logout-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-color: white;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+.login-submit-button {
+    background: #667eea;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background 0.3s ease;
+}
+
+.login-submit-button:hover {
     background: #5568d3;
 }
 

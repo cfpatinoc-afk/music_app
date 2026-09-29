@@ -2,14 +2,41 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs').promises;
 const path = require('path');
+const jwt = require('jsonwebtoken');
+const bcrypt = require('bcryptjs');
 
 const app = express();
 const PORT = process.env.PORT || 8080;
+
+// JWT Secret (en producción usar variable de entorno)
+const JWT_SECRET = process.env.JWT_SECRET || 'music-app-secret-key-change-in-production';
+
+// Admin credentials (en producción usar base de datos)
+const ADMIN_USERNAME = process.env.ADMIN_USERNAME || 'admin';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin123';
 
 // Middleware
 app.use(cors());
 app.use(express.json());
 app.use(express.static('.'));
+
+// Authentication middleware
+const authenticateToken = (req, res, next) => {
+    const authHeader = req.headers['authorization'];
+    const token = authHeader && authHeader.split(' ')[1];
+
+    if (!token) {
+        return res.status(401).json({ error: 'No token provided' });
+    }
+
+    jwt.verify(token, JWT_SECRET, (err, user) => {
+        if (err) {
+            return res.status(403).json({ error: 'Invalid token' });
+        }
+        req.user = user;
+        next();
+    });
+};
 
 // Data file paths
 const DATA_DIR = path.join(__dirname, 'data');
@@ -19,6 +46,23 @@ const VINYL_FILE = path.join(DATA_DIR, 'vinyl-list.json');
 const GOALS_FILE = path.join(DATA_DIR, 'daily-goals.json');
 
 // API Routes
+
+// Login endpoint
+app.post('/api/login', async (req, res) => {
+    const { username, password } = req.body;
+
+    if (username === ADMIN_USERNAME && password === ADMIN_PASSWORD) {
+        const token = jwt.sign({ username }, JWT_SECRET, { expiresIn: '24h' });
+        res.json({ token, username });
+    } else {
+        res.status(401).json({ error: 'Invalid credentials' });
+    }
+});
+
+// Verify token endpoint
+app.get('/api/verify', authenticateToken, (req, res) => {
+    res.json({ valid: true, username: req.user.username });
+});
 
 // Get rotation data
 app.get('/api/rotation', async (req, res) => {
@@ -32,7 +76,7 @@ app.get('/api/rotation', async (req, res) => {
 });
 
 // Update rotation data
-app.put('/api/rotation', async (req, res) => {
+app.put('/api/rotation', authenticateToken, async (req, res) => {
     try {
         const data = req.body;
         console.log('📥 Recibiendo datos de rotation:', data.length, 'álbumes');
@@ -57,7 +101,7 @@ app.get('/api/ratings', async (req, res) => {
 });
 
 // Update ratings data
-app.put('/api/ratings', async (req, res) => {
+app.put('/api/ratings', authenticateToken, async (req, res) => {
     try {
         const data = req.body;
         await fs.writeFile(RATINGS_FILE, JSON.stringify(data, null, 2), 'utf8');
@@ -80,7 +124,7 @@ app.get('/api/vinyl', async (req, res) => {
 });
 
 // Update vinyl data
-app.put('/api/vinyl', async (req, res) => {
+app.put('/api/vinyl', authenticateToken, async (req, res) => {
     try {
         const data = req.body;
         await fs.writeFile(VINYL_FILE, JSON.stringify(data, null, 2), 'utf8');
@@ -103,7 +147,7 @@ app.get('/api/goals', async (req, res) => {
 });
 
 // Update goals data
-app.put('/api/goals', async (req, res) => {
+app.put('/api/goals', authenticateToken, async (req, res) => {
     try {
         const data = req.body;
         await fs.writeFile(GOALS_FILE, JSON.stringify(data, null, 2), 'utf8');

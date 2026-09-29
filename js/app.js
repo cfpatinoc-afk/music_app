@@ -9,12 +9,16 @@ class MusicApp {
         this.initialRotationDays = 0; // Store initial rotation time for progress calculation
         // Use current origin for API URL (works for both localhost and Railway)
         this.apiBaseUrl = window.location.origin + '/api';
+        this.token = localStorage.getItem('authToken');
+        this.isAdmin = !!this.token;
         this.init();
     }
 
     async init() {
         await this.loadData();
         this.setupEventListeners();
+        this.setupAuthListeners();
+        this.updateUIForAuth();
         this.renderDashboard();
         await this.renderRatings();
         await this.renderRotation();
@@ -1333,13 +1337,13 @@ class MusicApp {
         try {
             const rotationResponse = await fetch(`${this.apiBaseUrl}/rotation`, {
                 method: 'PUT',
-                headers: { 'Content-Type': 'application/json' },
+                headers: this.getAuthHeaders(),
                 body: JSON.stringify(this.rotationData)
             });
-            
+
             const ratingsResponse = await fetch(`${this.apiBaseUrl}/ratings`, {
                 method: 'PUT',
-                headers: { 'Content-Type': 'application/json' },
+                headers: this.getAuthHeaders(),
                 body: JSON.stringify(this.ratingsData)
             });
 
@@ -1956,7 +1960,7 @@ class MusicApp {
         try {
             const response = await fetch(`${this.apiBaseUrl}/vinyl`, {
                 method: 'PUT',
-                headers: { 'Content-Type': 'application/json' },
+                headers: this.getAuthHeaders(),
                 body: JSON.stringify(this.vinylData)
             });
 
@@ -2408,7 +2412,7 @@ class MusicApp {
         try {
             const response = await fetch(`${this.apiBaseUrl}/goals`, {
                 method: 'PUT',
-                headers: { 'Content-Type': 'application/json' },
+                headers: this.getAuthHeaders(),
                 body: JSON.stringify(this.goalsData)
             });
 
@@ -2768,6 +2772,104 @@ class MusicApp {
 
         // Average of both percentages
         return (percentage475 + percentage45) / 2;
+    }
+
+    // Authentication Methods
+    setupAuthListeners() {
+        const loginBtn = document.getElementById('login-btn');
+        const logoutBtn = document.getElementById('logout-btn');
+        const loginSubmitBtn = document.getElementById('login-submit-btn');
+        const loginModal = document.getElementById('login-modal');
+
+        if (loginBtn) {
+            loginBtn.addEventListener('click', () => {
+                loginModal.classList.add('active');
+            });
+        }
+
+        if (logoutBtn) {
+            logoutBtn.addEventListener('click', () => {
+                this.logout();
+            });
+        }
+
+        if (loginSubmitBtn) {
+            loginSubmitBtn.addEventListener('click', () => this.login());
+        }
+
+        if (loginModal) {
+            loginModal.addEventListener('click', (e) => {
+                if (e.target.id === 'login-modal') {
+                    loginModal.classList.remove('active');
+                }
+            });
+        }
+    }
+
+    async login() {
+        const username = document.getElementById('login-username').value;
+        const password = document.getElementById('login-password').value;
+
+        try {
+            const response = await fetch(`${this.apiBaseUrl}/login`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ username, password })
+            });
+
+            const data = await response.json();
+
+            if (response.ok) {
+                this.token = data.token;
+                localStorage.setItem('authToken', this.token);
+                this.isAdmin = true;
+                this.updateUIForAuth();
+                document.getElementById('login-modal').classList.remove('active');
+                alert(`¡Bienvenido, ${data.username}!`);
+            } else {
+                alert(data.error || 'Error al iniciar sesión');
+            }
+        } catch (error) {
+            console.error('Login error:', error);
+            alert('Error al conectar con el servidor');
+        }
+    }
+
+    logout() {
+        this.token = null;
+        this.isAdmin = false;
+        localStorage.removeItem('authToken');
+        this.updateUIForAuth();
+        alert('Has cerrado sesión');
+    }
+
+    updateUIForAuth() {
+        const loginBtn = document.getElementById('login-btn');
+        const logoutBtn = document.getElementById('logout-btn');
+
+        if (this.isAdmin) {
+            loginBtn.style.display = 'none';
+            logoutBtn.style.display = 'block';
+        } else {
+            loginBtn.style.display = 'block';
+            logoutBtn.style.display = 'none';
+        }
+
+        // Disable/enable write actions based on auth
+        const writeActions = document.querySelectorAll('.edit-song-rating-btn, .rotation-btn, .rate-album-btn, .add-vinyl-btn, .add-rotation-btn, .edit-song-rating-button, .save-song-rating-button, .save-vinyl-button, .save-rotation-btn');
+        writeActions.forEach(btn => {
+            btn.disabled = !this.isAdmin;
+            btn.style.opacity = this.isAdmin ? '1' : '0.5';
+            btn.style.cursor = this.isAdmin ? 'pointer' : 'not-allowed';
+        });
+    }
+
+    getAuthHeaders() {
+        const headers = { 'Content-Type': 'application/json' };
+        if (this.token) {
+            headers['Authorization'] = `Bearer ${this.token}`;
+        }
+        return headers;
     }
 }
 
