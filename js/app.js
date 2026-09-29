@@ -1170,6 +1170,10 @@ class MusicApp {
         if (listenedStatusEl) {
             listenedStatusEl.addEventListener('click', (e) => {
                 e.stopPropagation();
+                if (!this.isAdmin) {
+                    alert('Debes iniciar sesión para realizar esta acción');
+                    return;
+                }
                 this.toggleRatingsListenedStatus(this.ratingsData.indexOf(album));
             });
         }
@@ -1677,6 +1681,10 @@ class MusicApp {
         if (decreaseBtn) {
             decreaseBtn.addEventListener('click', (e) => {
                 e.stopPropagation();
+                if (!this.isAdmin) {
+                    alert('Debes iniciar sesión para realizar esta acción');
+                    return;
+                }
                 this.updatePendingListens(this.rotationData.indexOf(album), -1);
             });
         }
@@ -1684,6 +1692,10 @@ class MusicApp {
         if (increaseBtn) {
             increaseBtn.addEventListener('click', (e) => {
                 e.stopPropagation();
+                if (!this.isAdmin) {
+                    alert('Debes iniciar sesión para realizar esta acción');
+                    return;
+                }
                 this.updatePendingListens(this.rotationData.indexOf(album), 1);
             });
         }
@@ -1698,6 +1710,10 @@ class MusicApp {
         if (listenedStatus) {
             listenedStatus.addEventListener('click', (e) => {
                 e.stopPropagation();
+                if (!this.isAdmin) {
+                    alert('Debes iniciar sesión para realizar esta acción');
+                    return;
+                }
                 this.toggleListenedStatus(this.rotationData.indexOf(album));
             });
         }
@@ -2859,7 +2875,8 @@ class MusicApp {
         const writeActions = document.querySelectorAll(
             '.edit-song-rating-btn, .rotation-btn, .rate-album-btn, .add-vinyl-btn, .add-rotation-btn, ' +
             '.edit-song-rating-button, .save-song-rating-button, .save-vinyl-button, .save-rotation-btn, ' +
-            '.listened-status, .reset-listened-btn, .reset-rotation-listened-btn'
+            '.listened-status, .reset-listened-btn, .reset-rotation-listened-btn, .change-status-button, ' +
+            '#edit-goals-btn, #save-goals-btn'
         );
         writeActions.forEach(btn => {
             btn.disabled = !this.isAdmin;
