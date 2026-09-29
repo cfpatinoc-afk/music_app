@@ -2856,7 +2856,11 @@ class MusicApp {
         }
 
         // Disable/enable write actions based on auth
-        const writeActions = document.querySelectorAll('.edit-song-rating-btn, .rotation-btn, .rate-album-btn, .add-vinyl-btn, .add-rotation-btn, .edit-song-rating-button, .save-song-rating-button, .save-vinyl-button, .save-rotation-btn');
+        const writeActions = document.querySelectorAll(
+            '.edit-song-rating-btn, .rotation-btn, .rate-album-btn, .add-vinyl-btn, .add-rotation-btn, ' +
+            '.edit-song-rating-button, .save-song-rating-button, .save-vinyl-button, .save-rotation-btn, ' +
+            '.listened-status, .reset-listened-btn, .reset-rotation-listened-btn'
+        );
         writeActions.forEach(btn => {
             btn.disabled = !this.isAdmin;
             btn.style.opacity = this.isAdmin ? '1' : '0.5';
