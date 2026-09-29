@@ -115,6 +115,55 @@ app.put('/api/goals', async (req, res) => {
     }
 });
 
+// Download data files
+app.get('/api/download/rotation', async (req, res) => {
+    try {
+        const data = await fs.readFile(ROTATION_FILE, 'utf8');
+        res.setHeader('Content-Type', 'application/json');
+        res.setHeader('Content-Disposition', 'attachment; filename=albums-rotation.json');
+        res.send(data);
+    } catch (error) {
+        console.error('Error reading rotation file:', error);
+        res.status(500).json({ error: 'Error reading rotation data' });
+    }
+});
+
+app.get('/api/download/ratings', async (req, res) => {
+    try {
+        const data = await fs.readFile(RATINGS_FILE, 'utf8');
+        res.setHeader('Content-Type', 'application/json');
+        res.setHeader('Content-Disposition', 'attachment; filename=albums-rating.json');
+        res.send(data);
+    } catch (error) {
+        console.error('Error reading ratings file:', error);
+        res.status(500).json({ error: 'Error reading ratings data' });
+    }
+});
+
+app.get('/api/download/vinyl', async (req, res) => {
+    try {
+        const data = await fs.readFile(VINYL_FILE, 'utf8');
+        res.setHeader('Content-Type', 'application/json');
+        res.setHeader('Content-Disposition', 'attachment; filename=vinyl-list.json');
+        res.send(data);
+    } catch (error) {
+        console.error('Error reading vinyl file:', error);
+        res.status(500).json({ error: 'Error reading vinyl data' });
+    }
+});
+
+app.get('/api/download/goals', async (req, res) => {
+    try {
+        const data = await fs.readFile(GOALS_FILE, 'utf8');
+        res.setHeader('Content-Type', 'application/json');
+        res.setHeader('Content-Disposition', 'attachment; filename=daily-goals.json');
+        res.send(data);
+    } catch (error) {
+        console.error('Error reading goals file:', error);
+        res.status(500).json({ error: 'Error reading goals data' });
+    }
+});
+
 // Start server
 app.listen(PORT, () => {
     console.log(`🎵 Music App server running on http://localhost:${PORT}`);

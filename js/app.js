@@ -1747,12 +1747,21 @@ class MusicApp {
         const modalContent = document.getElementById('modal-content');
 
         const stars = this.getAlbumStarRating(album.rate);
-        
+
         // Check if this is a vinyl album
         const isVinyl = this.vinylData.includes(album);
-        
+
         // Check if this is a rated album (has songs)
         const isRatedAlbum = this.ratingsData.includes(album) && album.songs && album.songs.length > 0;
+
+        // Ensure songs have fixed numbers
+        if (album.songs && album.songs.length > 0) {
+            album.songs.forEach((song, index) => {
+                if (song.number === undefined) {
+                    song.number = index + 1;
+                }
+            });
+        }
 
         let songsHTML = '';
         if (album.songs && album.songs.length > 0) {
@@ -1765,7 +1774,7 @@ class MusicApp {
                             if (isRatedAlbum) {
                                 return `
                                     <div class="song-item editable-song">
-                                        <span class="song-number">${index + 1}</span>
+                                        <span class="song-number">${song.number}</span>
                                         <span class="song-name">${song.name}</span>
                                         <span class="song-rating-controls">
                                             <span class="rating-badge-small">${song.rate.toFixed(3)}</span>
@@ -1777,7 +1786,7 @@ class MusicApp {
                             } else {
                                 return `
                                     <div class="song-item">
-                                        <span class="song-number">${index + 1}</span>
+                                        <span class="song-number">${song.number}</span>
                                         <span class="song-name">${song.name}</span>
                                         <span class="song-rating">
                                             <span class="rating-badge-small">${song.rate.toFixed(3)}</span>
@@ -2765,4 +2774,13 @@ class MusicApp {
 // Initialize the app when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     new MusicApp();
+
+    // Download buttons
+    document.querySelectorAll('.download-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const file = btn.dataset.file;
+            const url = `${window.location.origin}/api/download/${file}`;
+            window.location.href = url;
+        });
+    });
 });

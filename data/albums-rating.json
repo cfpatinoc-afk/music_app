@@ -1086,9 +1086,9 @@
     "main_genre": "Reggae Hispano",
     "genre": "Reggae, Pop Reggae",
     "duration": 57,
-    "rate": 4.7292,
+    "rate": 4.71875,
     "avg_rate": 4.5,
-    "like_percentage": 70.83,
+    "like_percentage": 66.66666666666667,
     "songs": [
       {
         "name": "Rimas pa Seducir",
@@ -1148,11 +1148,13 @@
       },
       {
         "name": "Somos Muchos",
-        "rate": 4.75,
+        "rate": 4.625,
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "min_rating": 4.5,
+        "max_rating": 4.75
       },
       {
         "name": "De Tope al Fondo",
@@ -1614,9 +1616,9 @@
     "main_genre": "Rock New Wave 90s",
     "genre": "Alternative Rock, Art Rock",
     "duration": 53,
-    "rate": 4.6932,
+    "rate": 4.704545454545454,
     "avg_rate": 4.5,
-    "like_percentage": 63.64,
+    "like_percentage": 68.18181818181819,
     "songs": [
       {
         "name": "Airbag",
@@ -1644,11 +1646,13 @@
       },
       {
         "name": "Exit Music (For a Film)",
-        "rate": 4.375,
+        "rate": 4.5,
         "range": {
           "low": 4.25,
           "high": 4.5
-        }
+        },
+        "min_rating": 4.5,
+        "max_rating": 4.5
       },
       {
         "name": "Let Down",
@@ -1707,7 +1711,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "The Score",
@@ -8949,5 +8953,290 @@
     ],
     "like_percentage": 62.5,
     "duration": 42
+  },
+  {
+    "name": "Nada Personal",
+    "artist": "Juan Pablo Vega",
+    "year": 2013,
+    "country": "Colombia",
+    "genre": "Balada, Rock Pop",
+    "main_genre": "Balada",
+    "minutes": 51,
+    "image": "https://cdn.sonemic.net/i/600/w/022dbbacd98169a1790f580db26fecd8/5723865/juan-pablo-vega-nada-personal-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6354,
+    "avg_rate": 4.6354,
+    "songs": [
+      {
+        "name": "Despedida",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Desde que tu no Estas",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Hace una Hora",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Nada Personal",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "Ya no Puedo Estar Lejos de Ti",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Ahora que vas a Dejarme",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375
+      },
+      {
+        "name": "Y Deja",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875
+      },
+      {
+        "name": "Respira",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Todo me Habla de Ti",
+        "min_rating": 3.75,
+        "max_rating": 3.75,
+        "rate": 3.75
+      },
+      {
+        "name": "No Paremos de Bailar",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Mansong",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Cuando te Tengo Cerca",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      }
+    ],
+    "like_percentage": 62.5,
+    "duration": 51
+  },
+  {
+    "name": "Kid A",
+    "artist": "Radiohead",
+    "year": 2000,
+    "country": "Inglaterra",
+    "genre": "Art Rock, Electronic, Experimental Rock",
+    "main_genre": "Rock New Wave 00s",
+    "minutes": 48,
+    "image": "https://cdn.sonemic.net/i/600/w/076215c80b1810341e978bbdbf47af69/12580450/radiohead-kid-a-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6625,
+    "avg_rate": 4.6625,
+    "songs": [
+      {
+        "name": "Everything in Its Right Place",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Kid A",
+        "min_rating": 3.75,
+        "max_rating": 3.75,
+        "rate": 3.75
+      },
+      {
+        "name": "The National Anthem",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "How to Disappear Completely",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Treefingers",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375
+      },
+      {
+        "name": "Optimistic",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      },
+      {
+        "name": "In Limbo",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Idioteque",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Morning Bell",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Motion Picture Soundtrack",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      }
+    ],
+    "like_percentage": 60,
+    "duration": 48
+  },
+  {
+    "name": "El Circulo",
+    "artist": "Kase.O",
+    "year": 2016,
+    "country": "España",
+    "genre": "Boom Bap, Conscious Hip Hop, Abstract Hip Hop",
+    "main_genre": "Hip Hop Hispano",
+    "minutes": 71,
+    "image": "https://cdn.sonemic.net/i/600/w/8b3062e20841edd623eea0b2cd64f3c4/6256382/kase_o-el-circulo-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6912,
+    "avg_rate": 4.6912,
+    "songs": [
+      {
+        "name": "Intro (El Circulo)",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Esto no Para",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      },
+      {
+        "name": "Yemen",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Triste",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Guapo Tarde",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875
+      },
+      {
+        "name": "Viejos Ciegos",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Quieren Copiar",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Pavos Reales",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Mitad y Mitad",
+        "min_rating": 3.75,
+        "max_rating": 3.75,
+        "rate": 3.75
+      },
+      {
+        "name": "Mazas y Catapultas",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Amor sin Clausulas",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375
+      },
+      {
+        "name": "No se que voy a Hacer",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Risoterapia",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25
+      },
+      {
+        "name": "Rap Superdotado",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Repartiendo Arte",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "Basureta",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Outro",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      }
+    ],
+    "like_percentage": 70.58823529411765,
+    "duration": 71
   }
 ]

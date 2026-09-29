@@ -1,18 +1,5 @@
 [
   {
-    "name": "El Circulo",
-    "artist": "Kase.O",
-    "year": 2016,
-    "country": "España",
-    "genre": "Boom Bap, Conscious Hip Hop, Abstract Hip Hop",
-    "pending_listens": 1,
-    "main_genre": "Hip Hop Hispano",
-    "minutes": 71,
-    "remaining": 71,
-    "image": "https://cdn.sonemic.net/i/600/w/8b3062e20841edd623eea0b2cd64f3c4/6256382/kase_o-el-circulo-Cover-Art.jpg",
-    "listened": false
-  },
-  {
     "name": "This Is How Tomorrow Moves",
     "artist": "Beabadoobee",
     "year": 2024,
@@ -23,19 +10,6 @@
     "minutes": 42,
     "remaining": 42,
     "image": "https://cdn.sonemic.net/i/600/w/49e55955f788d350916defbeb2bc3128/12101546/beabadoobee-this-is-how-tomorrow-moves-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "Nada Personal",
-    "artist": "Juan Pablo Vega",
-    "year": 2013,
-    "country": "Colombia",
-    "genre": "Balada, Rock Pop",
-    "pending_listens": 0,
-    "main_genre": "Balada",
-    "minutes": 51,
-    "remaining": 0,
-    "image": "https://cdn.sonemic.net/i/600/w/022dbbacd98169a1790f580db26fecd8/5723865/juan-pablo-vega-nada-personal-Cover-Art.jpg",
     "listened": true
   },
   {
@@ -219,19 +193,6 @@
     "remaining": 32,
     "image": "https://cdn.sonemic.net/i/600/w/dcebc61c2d7bd6291dc3e2d2c209f912/2656494/atheist-unquestionable-presence-Cover-Art.jpgß",
     "listened": true
-  },
-  {
-    "name": "Kid A",
-    "artist": "Radiohead",
-    "year": 2000,
-    "country": "Inglaterra",
-    "genre": "Art Rock, Electronic, Experimental Rock",
-    "pending_listens": 1,
-    "main_genre": "Rock New Wave 00s",
-    "minutes": 48,
-    "remaining": 48,
-    "image": "https://cdn.sonemic.net/i/600/w/076215c80b1810341e978bbdbf47af69/12580450/radiohead-kid-a-Cover-Art.jpg",
-    "listened": false
   },
   {
     "name": "Spiderland",

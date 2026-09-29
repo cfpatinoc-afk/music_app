@@ -89,6 +89,47 @@ main {
     margin-bottom: 30px;
 }
 
+.download-section {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 1px solid #e0e0e0;
+}
+
+.download-section h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.download-section p {
+    margin-bottom: 15px;
+    color: #666;
+    font-size: 0.9em;
+}
+
+.download-buttons {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+}
+
+.download-btn {
+    background: #667eea;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background 0.3s ease;
+}
+
+.download-btn:hover {
+    background: #5568d3;
+}
+
 .stat-card {
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     padding: 25px;
@@ -1751,6 +1792,23 @@ main {
 }
 
 @media (max-width: 768px) {
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    .container {
+        max-width: 100vw;
+        width: 100%;
+        border-radius: 0;
+        margin: 0;
+        overflow-x: hidden;
+    }
+
     header h1 {
         font-size: 1.8em;
     }
@@ -1760,7 +1818,8 @@ main {
     }
 
     .album-list {
-        grid-template-columns: 1fr;
+        width: 100%;
+        max-width: 100%;
     }
 
     .filters {
@@ -1773,6 +1832,7 @@ main {
         gap: 12px;
         padding: 15px;
         max-width: 100%;
+        width: 100%;
         overflow: hidden;
     }
 
@@ -1798,7 +1858,7 @@ main {
 
     .top-album-image {
         width: 100%;
-        height: 280px;
+        height: 300px;
         grid-row: 1;
     }
 
@@ -1807,7 +1867,8 @@ main {
         width: 100%;
         max-width: 100%;
         overflow: hidden;
-        padding-left: 60px;
+        padding-left: 15px;
+        box-sizing: border-box;
     }
 
     .top-album-name {
@@ -1877,16 +1938,22 @@ main {
         grid-column: 1 / -1;
         justify-self: center;
         width: 100%;
-        max-width: 160px;
     }
 
     .rotation-summary > *:last-child:nth-child(odd) {
         grid-column: 1 / -1;
         justify-self: center;
         width: 100%;
-        max-width: 160px;
     }
 }
+
+@media (max-width: 398px) {
+    .charts-section {
+        margin-left: -5%;
+    }
+}
+
+
 
 /* Modal Styles */
 .modal {
@@ -2042,6 +2109,7 @@ main {
     padding: 15px;
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     border-radius: 10px;
+    flex-wrap: wrap;
 }
 
 .rating-badge-large {
@@ -2373,7 +2441,8 @@ main {
     }
 
     .modal-image {
-        height: 250px;
+        height: 270px;
+        width: 270px
     }
 
     .modal-stats {
