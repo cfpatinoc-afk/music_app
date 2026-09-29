@@ -2876,7 +2876,7 @@ class MusicApp {
             '.edit-song-rating-btn, .rotation-btn, .rate-album-btn, .add-vinyl-btn, .add-rotation-btn, ' +
             '.edit-song-rating-button, .save-song-rating-button, .save-vinyl-button, .save-rotation-btn, ' +
             '.listened-status, .reset-listened-btn, .reset-rotation-listened-btn, .change-status-button, ' +
-            '#edit-goals-btn, #save-goals-btn'
+            '#edit-goals-btn, #save-goals-btn, #change-vinyl-status-btn'
         );
         writeActions.forEach(btn => {
             btn.disabled = !this.isAdmin;
