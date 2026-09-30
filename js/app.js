@@ -2350,11 +2350,21 @@ class MusicApp {
     }
 
     async completeRating(albumRating) {
+        // Calculate avg_rate based on rating ranges
+        let avgRate;
+        if (albumRating < 4.5) {
+            avgRate = 4;
+        } else if (albumRating < 4.75) {
+            avgRate = 4.5;
+        } else {
+            avgRate = 5;
+        }
+
         // Create new album object for ratings
         const ratedAlbum = {
             ...this.currentRatingAlbum,
             rate: albumRating,
-            avg_rate: albumRating, // Using same value for now
+            avg_rate: avgRate,
             songs: this.currentSongs,
             like_percentage: this.calculateLikePercentage(),
             duration: this.currentRatingAlbum.minutes // Add duration from minutes
@@ -2573,7 +2583,12 @@ class MusicApp {
             status: status,
             image: image || 'https://via.placeholder.com/400?text=No+Image',
             rate: rate ? parseFloat(rate) : null,
-            avg_rate: avgRate ? parseFloat(avgRate) : null
+            avg_rate: rate ? (() => {
+                const r = parseFloat(rate);
+                if (r < 4.5) return 4;
+                if (r < 4.75) return 4.5;
+                return 5;
+            })() : null
         };
 
         console.log('🎵 Agregando nuevo vinilo:', newVinyl);

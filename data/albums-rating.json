@@ -6394,8 +6394,8 @@
     "main_genre": "Electronica",
     "genre": "House, Electro-Disco, Funky-House",
     "duration": 61,
-    "rate": 4.6442,
-    "avg_rate": null,
+    "rate": 4.6429,
+    "avg_rate": 4.5,
     "like_percentage": 57.69,
     "songs": [
       {
@@ -6424,10 +6424,10 @@
       },
       {
         "name": "Harder, Beter, Faster, Stronger",
-        "rate": 5,
+        "rate": 5.25,
         "range": {
           "low": 5,
-          "high": 5
+          "high": 5.5
         }
       },
       {
@@ -6440,10 +6440,10 @@
       },
       {
         "name": "Nightvision",
-        "rate": null,
+        "rate": 4.125,
         "range": {
-          "low": null,
-          "high": null
+          "low": 4,
+          "high": 4.25
         }
       },
       {
@@ -6464,10 +6464,10 @@
       },
       {
         "name": "Something About You",
-        "rate": 4.75,
+        "rate": 4.875,
         "range": {
           "low": 4.75,
-          "high": 4.75
+          "high": 5
         }
       },
       {
@@ -6480,10 +6480,10 @@
       },
       {
         "name": "Verdis Quo",
-        "rate": 4.75,
+        "rate": 4.875,
         "range": {
           "low": 4.75,
-          "high": 4.75
+          "high": 5
         }
       },
       {
@@ -6723,7 +6723,7 @@
     "genre": "Black Metal",
     "duration": 46,
     "rate": 4.6406,
-    "avg_rate": null,
+    "avg_rate": 4.5,
     "like_percentage": 62.5,
     "songs": [
       {
@@ -8075,7 +8075,7 @@
     "genre": "Pop Rock, Soft Rock",
     "duration": 42,
     "rate": 4.6125,
-    "avg_rate": null,
+    "avg_rate": 4.5,
     "like_percentage": 60,
     "songs": [
       {
@@ -8499,7 +8499,7 @@
     "genre": "Symphonic Prog, Progressive Rock",
     "duration": 39,
     "rate": 4.6,
-    "avg_rate": null,
+    "avg_rate": 4.5,
     "like_percentage": 40,
     "songs": [
       {
@@ -8924,7 +8924,7 @@
     "image": "https://cdn.sonemic.net/i/600/w/c2c88287610e88644efe3a60826293fb/14073031/yes-close-to-the-edge-Cover-Art.jpg",
     "listened": false,
     "rate": 4.6875,
-    "avg_rate": 4.6875,
+    "avg_rate": 4.5,
     "songs": [
       {
         "name": "Close to The Edge",
@@ -8965,7 +8965,7 @@
     "image": "https://cdn.sonemic.net/i/600/w/022dbbacd98169a1790f580db26fecd8/5723865/juan-pablo-vega-nada-personal-Cover-Art.jpg",
     "listened": true,
     "rate": 4.6354,
-    "avg_rate": 4.6354,
+    "avg_rate": 4.5,
     "songs": [
       {
         "name": "Despedida",
@@ -9054,7 +9054,7 @@
     "image": "https://cdn.sonemic.net/i/600/w/076215c80b1810341e978bbdbf47af69/12580450/radiohead-kid-a-Cover-Art.jpg",
     "listened": true,
     "rate": 4.6625,
-    "avg_rate": 4.6625,
+    "avg_rate": 4.5,
     "songs": [
       {
         "name": "Everything in Its Right Place",
@@ -9131,7 +9131,7 @@
     "image": "https://cdn.sonemic.net/i/600/w/8b3062e20841edd623eea0b2cd64f3c4/6256382/kase_o-el-circulo-Cover-Art.jpg",
     "listened": true,
     "rate": 4.6912,
-    "avg_rate": 4.6912,
+    "avg_rate": 4.5,
     "songs": [
       {
         "name": "Intro (El Circulo)",
