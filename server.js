@@ -15,6 +15,12 @@ const JWT_SECRET = process.env.JWT_SECRET || 'music-app-secret-key-change-in-pro
 const ADMIN_USERNAME = process.env.ADMIN_USERNAME || 'admin';
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin123';
 
+// Log environment variables for debugging
+console.log('🔧 Environment variables loaded:');
+console.log('   ADMIN_USERNAME:', ADMIN_USERNAME);
+console.log('   ADMIN_PASSWORD:', ADMIN_PASSWORD ? '***' : 'not set');
+console.log('   JWT_SECRET:', JWT_SECRET ? '***' : 'not set');
+
 // Middleware
 app.use(cors());
 app.use(express.json());
