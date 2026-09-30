@@ -230,8 +230,14 @@ class MusicApp {
         document.getElementById('filter-rotation-pending').addEventListener('change', async () => await this.renderRotation());
 
         // Goals modal
-        document.getElementById('edit-goals-btn').addEventListener('click', () => this.openGoalsModal());
-        document.getElementById('save-goals-btn').addEventListener('click', () => this.saveGoals());
+        document.getElementById('edit-goals-btn').addEventListener('click', () => {
+            if (!this.isAdmin) return;
+            this.openGoalsModal();
+        });
+        document.getElementById('save-goals-btn').addEventListener('click', () => {
+            if (!this.isAdmin) return;
+            this.saveGoals();
+        });
 
         // Add vinyl modal
         const addVinylBtn = document.getElementById('add-vinyl-btn');
@@ -867,7 +873,7 @@ class MusicApp {
 
         const topSongs = allSongs
             .sort((a, b) => b.rate - a.rate)
-            .slice(0, 120);
+            .slice(0, 200);
 
         container.innerHTML = '';
 
@@ -1916,6 +1922,10 @@ class MusicApp {
             
             if (changeStatusBtn && statusSelect) {
                 changeStatusBtn.addEventListener('click', () => {
+                    if (!this.isAdmin) {
+                        alert('Debes iniciar sesión para realizar esta acción');
+                        return;
+                    }
                     this.changeVinylStatus(album, statusSelect.value);
                 });
             }

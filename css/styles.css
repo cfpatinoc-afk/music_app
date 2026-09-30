@@ -573,7 +573,8 @@ main {
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
-   flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 15px 0px;
 }
 
 .top-song-card:hover {
@@ -1910,7 +1911,7 @@ main {
         width: 100%;
         max-width: 100%;
         overflow: hidden;
-        padding-left: 15px;
+        padding-left: 60px;
         box-sizing: border-box;
     }
 
