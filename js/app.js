@@ -1343,6 +1343,10 @@ class MusicApp {
         localStorage.setItem('vinylData', JSON.stringify(this.vinylData));
         localStorage.setItem('goalsData', JSON.stringify(this.goalsData));
 
+        console.log('💾 Guardando datos...');
+        console.log('   Rotation:', this.rotationData.length, 'álbumes');
+        console.log('   Ratings:', this.ratingsData.length, 'álbumes');
+
         // Try to save via API
         try {
             const rotationResponse = await fetch(`${this.apiBaseUrl}/rotation`, {
@@ -1356,6 +1360,10 @@ class MusicApp {
                 headers: this.getAuthHeaders(),
                 body: JSON.stringify(this.ratingsData)
             });
+
+            console.log('📤 Respuestas de API:');
+            console.log('   Rotation:', rotationResponse.status, rotationResponse.statusText);
+            console.log('   Ratings:', ratingsResponse.status, ratingsResponse.statusText);
 
             if (rotationResponse.ok && ratingsResponse.ok) {
                 console.log('✅ Datos guardados via API exitosamente');
