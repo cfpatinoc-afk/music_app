@@ -13,19 +13,6 @@
     "listened": true
   },
   {
-    "name": "Como pez en el Hielo",
-    "artist": "Nicolas y los Fumadores",
-    "year": 2018,
-    "country": "Colombia",
-    "genre": "Alternative Rock, Psichedelic Rock",
-    "pending_listens": 1,
-    "main_genre": "Rock New Wave Hispano",
-    "minutes": 35,
-    "remaining": 35,
-    "image": "https://cdn.sonemic.net/i/600/w/240a2394f1073ac11f9bc7fdd8573ddb/7365245/nicolas-y-los-fumadores-como-pez-en-el-hielo-Cover-Art.jpg",
-    "listened": false
-  },
-  {
     "name": "Dummy",
     "artist": "Portishead",
     "year": 1994,
@@ -49,19 +36,6 @@
     "minutes": 43,
     "remaining": 43,
     "image": "https://cdn.sonemic.net/i/600/w/c01efac490c0a9cfe3a94b5035a7de97/1889847/forbidden-forbidden-evil-Cover-Art.jpg",
-    "listened": false
-  },
-  {
-    "name": "Band on the Run",
-    "artist": "Wings",
-    "year": 1973,
-    "country": "Inglaterra",
-    "genre": "Pop rock",
-    "pending_listens": 1,
-    "main_genre": "Rock Classic 70s",
-    "minutes": 41,
-    "remaining": 41,
-    "image": "https://cdn.sonemic.net/i/600/w/f896add6053a91f4548d19d77da32c1b/2401915/paul-mccartney-and-wings-band-on-the-run-Cover-Art.jpg",
     "listened": false
   },
   {

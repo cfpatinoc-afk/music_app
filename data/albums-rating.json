@@ -9238,5 +9238,149 @@
     ],
     "like_percentage": 70.58823529411765,
     "duration": 71
+  },
+  {
+    "name": "Band on the Run",
+    "artist": "Wings",
+    "year": 1973,
+    "country": "Inglaterra",
+    "genre": "Pop rock",
+    "main_genre": "Rock Classic 70s",
+    "minutes": 41,
+    "image": "https://cdn.sonemic.net/i/600/w/f896add6053a91f4548d19d77da32c1b/2401915/paul-mccartney-and-wings-band-on-the-run-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6667,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Band on the Run",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Jet",
+        "min_rating": 4,
+        "max_rating": 4,
+        "rate": 4
+      },
+      {
+        "name": "Bluebird",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "Mrs. Vandeblit",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375
+      },
+      {
+        "name": "Let me Roll It",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Mamunia",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "No Word",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875
+      },
+      {
+        "name": "Picasso's Last Words",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Nineteen Hundred and Eighty Five",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      }
+    ],
+    "like_percentage": 61.11111111111111,
+    "duration": 41
+  },
+  {
+    "name": "Como pez en el Hielo",
+    "artist": "Nicolas y los Fumadores",
+    "year": 2018,
+    "country": "Colombia",
+    "genre": "Alternative Rock, Psichedelic Rock",
+    "main_genre": "Rock New Wave Hispano",
+    "minutes": 35,
+    "image": "https://cdn.sonemic.net/i/600/w/240a2394f1073ac11f9bc7fdd8573ddb/7365245/nicolas-y-los-fumadores-como-pez-en-el-hielo-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.65625,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Paseo Submarino",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5,
+        "number": 1
+      },
+      {
+        "name": "Me Quiero Ir",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625,
+        "number": 2
+      },
+      {
+        "name": "Bailando Triste",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 3
+      },
+      {
+        "name": "Las Aventuras del Raton",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625,
+        "number": 4
+      },
+      {
+        "name": "Brisa",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 5
+      },
+      {
+        "name": "Bruce y Margaret",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 6
+      },
+      {
+        "name": "Triste Otra Vez",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125,
+        "number": 7
+      },
+      {
+        "name": "Corintios",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5,
+        "number": 8
+      }
+    ],
+    "like_percentage": 68.75,
+    "duration": 35
   }
 ]

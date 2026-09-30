@@ -1221,8 +1221,10 @@ class MusicApp {
         // Ordenar
         if (sortBy === 'rating') {
             filtered.sort((a, b) => {
-                if (b.rate !== a.rate) {
-                    return b.rate - a.rate;
+                const rateA = Math.round(a.rate * 10000) / 10000; // Round to 4 decimals
+                const rateB = Math.round(b.rate * 10000) / 10000; // Round to 4 decimals
+                if (rateB !== rateA) {
+                    return rateB - rateA;
                 }
                 // Secondary criteria: like_percentage
                 return (b.like_percentage || 0) - (a.like_percentage || 0);
