@@ -10,7 +10,7 @@
     "minutes": 42,
     "remaining": 42,
     "image": "https://cdn.sonemic.net/i/600/w/49e55955f788d350916defbeb2bc3128/12101546/beabadoobee-this-is-how-tomorrow-moves-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Dummy",
@@ -23,19 +23,6 @@
     "minutes": 49,
     "remaining": 49,
     "image": "https://cdn.sonemic.net/i/600/w/e9720fb52f95796fcc00ae56aff09d41/10069850/portishead-dummy-Cover-Art.png",
-    "listened": true
-  },
-  {
-    "name": "Forbidden Evil",
-    "artist": "Forbidden",
-    "year": 1988,
-    "country": "Estados Unidos",
-    "genre": "Technical Thrash Metal, Progressive Metal",
-    "pending_listens": 1,
-    "main_genre": "Thrash Metal Classic",
-    "minutes": 43,
-    "remaining": 43,
-    "image": "https://cdn.sonemic.net/i/600/w/c01efac490c0a9cfe3a94b5035a7de97/1889847/forbidden-forbidden-evil-Cover-Art.jpg",
     "listened": false
   },
   {
@@ -49,20 +36,7 @@
     "minutes": 47,
     "remaining": 47,
     "image": "https://cdn.sonemic.net/i/600/w/bdaae1f1459ebbf3fcb686f587d025be/1840514/sepultura-arise-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
-    "artist": "David Bowie",
-    "year": 1972,
-    "country": "Inglaterra",
-    "genre": "Glam Rock, Pop Rock, Art Rock",
-    "pending_listens": 1,
-    "main_genre": "Rock Classic 70s",
-    "minutes": 39,
-    "remaining": 39,
-    "image": "https://cdn.sonemic.net/i/600/w/5286b64a7026f2aa94e663215d2a95f6/8542182/david-bowie-the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-Cover-Art.png",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Goodbye Yellow Brick Road",
@@ -75,7 +49,7 @@
     "minutes": 77,
     "remaining": 77,
     "image": "https://cdn.sonemic.net/i/600/w/e170112525eb2d733cc5b218622f99a3/1814964/elton-john-goodbye-yellow-brick-road-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Disintegration",
@@ -88,7 +62,7 @@
     "minutes": 73,
     "remaining": 73,
     "image": "https://cdn.sonemic.net/i/600/w/b56a070ad027b23dace9e24102ae5da9/7272164/the-cure-disintegration-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "The Aura",
@@ -101,20 +75,7 @@
     "minutes": 53,
     "remaining": 53,
     "image": "https://cdn.sonemic.net/i/600/w/cd6db924840bae71940c3cd06be4780b/3573204/beyond-creation-the-aura-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "American Idiot",
-    "artist": "Green Day",
-    "year": 2004,
-    "country": "Estados Unidos",
-    "genre": "Pop Punk, Alternative Rock, Rock Opera",
-    "pending_listens": 1,
-    "main_genre": "Rock New Wave 00s",
-    "minutes": 58,
-    "remaining": 58,
-    "image": "https://cdn.sonemic.net/i/600/w/319c9a1434459c05369ef12e48607886/14435518/green-day-american-idiot-Cover-Art.png",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Human",
@@ -127,32 +88,6 @@
     "minutes": 34,
     "remaining": 34,
     "image": "https://cdn.sonemic.net/i/600/w/e41ca962d26afadec8d8ee6809652f07/2656313/death-human-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "Peace Sells... But Who's Buying?",
-    "artist": "Megadeth",
-    "year": 1986,
-    "country": "Estados Unidos",
-    "genre": "Thrash Metal",
-    "pending_listens": 1,
-    "main_genre": "Thrash Metal Classic",
-    "minutes": 36,
-    "remaining": 36,
-    "image": "https://cdn.sonemic.net/i/600/w/21813bd1cb4c3eb199ee77a3fde6bf07/11299229/megadeth-peace-sells-but-whos-buying-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "Terminal Redux",
-    "artist": "Vektor",
-    "year": 2016,
-    "country": "Estados Unidos",
-    "genre": "Technical Thrash Metal, Progressive Metal",
-    "pending_listens": 1,
-    "main_genre": "Thrash Metal New Wave",
-    "minutes": 74,
-    "remaining": 74,
-    "image": "https://cdn.sonemic.net/i/600/w/4d65deda05687800ff33add35d7255a1/7984429/vektor-terminal-redux-Cover-Art.jpg",
     "listened": false
   },
   {
@@ -166,7 +101,7 @@
     "minutes": 32,
     "remaining": 32,
     "image": "https://cdn.sonemic.net/i/600/w/dcebc61c2d7bd6291dc3e2d2c209f912/2656494/atheist-unquestionable-presence-Cover-Art.jpgß",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Spiderland",
@@ -179,7 +114,7 @@
     "minutes": 40,
     "remaining": 40,
     "image": "https://cdn.sonemic.net/i/600/w/bd09421e69e4bc489eec86329627f9c5/12423124/slint-spiderland-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Igor",
@@ -192,7 +127,7 @@
     "minutes": 40,
     "remaining": 40,
     "image": "https://cdn.sonemic.net/i/600/w/47500e0f64ec50b69a3b021a8d64557f/7574908/tyler-the-creator-igor-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Hounds of Love",
@@ -205,7 +140,7 @@
     "minutes": 47,
     "remaining": 47,
     "image": "https://cdn.sonemic.net/i/600/w/b5bad9c16ff94f58ea5d566fb18121e3/12177980/kate-bush-hounds-of-love-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Breaking Atoms",
@@ -218,7 +153,7 @@
     "minutes": 47,
     "remaining": 47,
     "image": "https://cdn.sonemic.net/i/600/w/0d1f098b7cc8c1eb70219139ccb61fd7/3266163/main-source-breaking-atoms-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "The Chronic",
@@ -231,20 +166,7 @@
     "minutes": 63,
     "remaining": 63,
     "image": "https://cdn.sonemic.net/i/600/w/8c0bda15b2afc39e26c1e86a59830511/12862346/dr-dre-the-chronic-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "Enter the Wu-Tang",
-    "artist": "Wu-Tang Clan",
-    "year": 1993,
-    "country": "Estados Unidos",
-    "genre": "East Coast Hip Hop",
-    "pending_listens": 1,
-    "main_genre": "Hip Hop Classic",
-    "minutes": 59,
-    "remaining": 59,
-    "image": "https://cdn.sonemic.net/i/600/w/35ad1c37ec1e1930616df000788e0c13/6558603/wu-tang-clan-enter-the-wu-tang-36-chambers-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Hold It Down",
@@ -257,7 +179,7 @@
     "minutes": 70,
     "remaining": 70,
     "image": "https://cdn.sonemic.net/i/600/w/327e77656a0e06ea597997f7b45e5e52/4976355/das-efx-hold-it-down-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Things Fall Apart",
@@ -270,7 +192,7 @@
     "minutes": 68,
     "remaining": 68,
     "image": "https://cdn.sonemic.net/i/600/w/a5dc0f5987d8e33a15f84c0819fde9e7/7080441/the-roots-things-fall-apart-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Life Beyond",
@@ -283,7 +205,7 @@
     "minutes": 40,
     "remaining": 40,
     "image": "https://cdn.sonemic.net/i/600/w/51ed0ce589b0445da4208eefed3a630e/3913268/deathrow-life-beyond-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Either / Or",
@@ -296,19 +218,6 @@
     "minutes": 37,
     "remaining": 37,
     "image": "https://cdn.sonemic.net/i/600/w/055df1bde7ea4fc45cf695f9d5810b3c/12928022/elliott-smith-either-or-Cover-Art.png",
-    "listened": true
-  },
-  {
-    "name": "Marquee Moon",
-    "artist": "Television",
-    "year": 1977,
-    "country": "Estados Unidos",
-    "genre": "Art Punk, Art Rock, Post-Punk",
-    "pending_listens": 1,
-    "main_genre": "Post-punk - Dream Pop - New Wave",
-    "minutes": 46,
-    "remaining": 46,
-    "image": "https://cdn.sonemic.net/i/600/w/692c17be71ef707b2cf284803d3f2255/7659700/television-marquee-moon-Cover-Art.jpg",
     "listened": false
   },
   {
@@ -322,7 +231,7 @@
     "minutes": 35,
     "remaining": 35,
     "image": "https://cdn.sonemic.net/i/600/w/b25c16e17ef09edb59d50610c4362043/14495264/black-sabbath-master-of-reality-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "Laughing Stock",
@@ -335,45 +244,6 @@
     "minutes": 43,
     "remaining": 43,
     "image": "https://cdn.sonemic.net/i/600/w/f189e64f8a9dd9b0f06d527201579e30/14486805/talk-talk-laughing-stock-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "Charm",
-    "artist": "Clairo",
-    "year": 2024,
-    "country": "Estados Unidos",
-    "genre": "Soft Rock, Sophisti-Pop, Pop Soul, Chamber Pop",
-    "pending_listens": 1,
-    "main_genre": "Pop",
-    "minutes": 38,
-    "remaining": 38,
-    "image": "https://cdn.sonemic.net/i/600/w/a6f3e0507b50f0954572394f334ad11a/12312967/clairo-charm-Cover-Art.jpg",
-    "listened": false
-  },
-  {
-    "name": "Casa de Leones",
-    "artist": "Jowell, Randy, Guelo Star, J King, Maximan",
-    "year": 2007,
-    "country": "Puerto Rico",
-    "genre": "Reggaetón, Dancehall",
-    "pending_listens": 1,
-    "main_genre": "Reggaeton",
-    "minutes": 86,
-    "remaining": 86,
-    "image": "https://cdn.sonemic.net/i/600/w/b8aecb81b81e7e12e540b503b94ad625/5195325/casa-de-leones-casa-de-leones-Cover-Art.jpg",
-    "listened": false
-  },
-  {
-    "name": "Lo que te conté mientras te hacías la dormida",
-    "artist": "La Oreja de Van Gogh",
-    "year": 2003,
-    "country": "España",
-    "genre": "Pop Rock, Balada, Synthpop",
-    "pending_listens": 1,
-    "main_genre": "Balada",
-    "minutes": 54,
-    "remaining": 54,
-    "image": "https://cdn.sonemic.net/i/600/w/6071a00008898eecfda1e7bad047fe65/1681879/la-oreja-de-van-gogh-lo-que-te-conte-mientras-te-hacias-la-dormida-Cover-Art.jpg",
     "listened": false
   },
   {
@@ -387,33 +257,7 @@
     "minutes": 47,
     "remaining": 47,
     "image": "https://cdn.sonemic.net/i/600/w/23e92336b2f057357ab8950090d3cc4b/8803028/n-hardem-verdor-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "Days of Future Passed",
-    "artist": "The Moody Blues",
-    "year": 1967,
-    "country": "Inglaterra",
-    "genre": "Baroque Pop, Art Rock, Progressive Pop",
-    "pending_listens": 1,
-    "main_genre": "Rock Classic 60s",
-    "minutes": 42,
-    "remaining": 42,
-    "image": "https://cdn.sonemic.net/i/600/w/7d0cadaf80b50d968c0c2af7ca1735ff/13884046/the-moody-blues-days-of-future-passed-Cover-Art.jpg",
-    "listened": true
-  },
-  {
-    "name": "Serio",
-    "artist": "Lil Supa",
-    "year": 2017,
-    "country": "Venezuela",
-    "genre": "Jazz Rap, Drumless, Conscious Hip Hop",
-    "pending_listens": 1,
-    "main_genre": "Hip Hop Hispano",
-    "minutes": 45,
-    "remaining": 45,
-    "image": "https://cdn.sonemic.net/i/600/w/90b3cce0fe61223b4afa3f80d1db5dba/14270116/lil-supa-serio-Cover-Art.jpg",
-    "listened": true
+    "listened": false
   },
   {
     "name": "The Wall",
@@ -421,10 +265,10 @@
     "year": 1979,
     "country": "Inglaterra",
     "genre": "Rock Opera, Art Rock",
-    "pending_listens": 5,
+    "pending_listens": 4,
     "main_genre": "Rock Classic 70s",
     "minutes": 81,
-    "remaining": 405,
+    "remaining": 324,
     "image": "https://cdn.sonemic.net/i/600/w/49e195fb7c63c079d3cd4e1bd7c1fbcd/11169029/pink-floyd-the-wall-Cover-Art.png",
     "listened": true
   },
@@ -434,10 +278,10 @@
     "year": 1989,
     "country": "Inglaterra",
     "genre": "Jangle Pop, Indie Rock, Neo-Psychedelia",
-    "pending_listens": 5,
+    "pending_listens": 4,
     "main_genre": "Rock New Wage 80s",
     "minutes": 59,
-    "remaining": 295,
+    "remaining": 236,
     "image": "https://cdn.sonemic.net/i/600/w/5d24bb318c25e542d5666e4b86feb044/10835125/the-stone-roses-the-stone-roses-Cover-Art.jpg",
     "listened": true
   },
@@ -447,10 +291,10 @@
     "year": 1994,
     "country": "Estados Unidos",
     "genre": "Alternative Rock, Art Rock",
-    "pending_listens": 6,
+    "pending_listens": 5,
     "main_genre": "Rock New Wave 90s",
     "minutes": 52,
-    "remaining": 312,
+    "remaining": 260,
     "image": "https://cdn.sonemic.net/i/600/w/7409d01a8c0cdf51e8b22fd5d055196a/7027387/jeff-buckley-grace-Cover-Art.jpg",
     "listened": true
   },
@@ -460,10 +304,10 @@
     "year": 2015,
     "country": "Australia",
     "genre": "Psychedelic Pop, Synthpop, Neo-Psychedelia",
-    "pending_listens": 5,
+    "pending_listens": 4,
     "main_genre": "Rock New Wave 10's",
     "minutes": 51,
-    "remaining": 255,
+    "remaining": 204,
     "image": "https://cdn.sonemic.net/i/600/w/ea06dc0cd47d5efbed799db833130eaf/14551636/tame-impala-currents-Cover-Art.png",
     "listened": true
   },
@@ -473,10 +317,10 @@
     "year": 1972,
     "country": "Estados Unidos",
     "genre": "Folk Pop, Folk Rock",
-    "pending_listens": 3,
+    "pending_listens": 2,
     "main_genre": "Folk Classic",
     "minutes": 33,
-    "remaining": 99,
+    "remaining": 66,
     "image": "https://cdn.sonemic.net/i/600/w/8aa5eca072a125e5e9a142edd91d9e14/8810005/jim-croce-you-dont-mess-around-with-jim-Cover-Art.jpg",
     "listened": true
   },
@@ -486,10 +330,10 @@
     "year": 1972,
     "country": "Inglaterra",
     "genre": "Hard Rock, Heavy Metal, Blues Rock",
-    "pending_listens": 5,
+    "pending_listens": 4,
     "main_genre": "Heavy Metal",
     "minutes": 38,
-    "remaining": 190,
+    "remaining": 152,
     "image": "https://cdn.sonemic.net/i/600/w/46e92462783847b912739ec0c0a8c1ef/14061624/deep-purple-machine-head-Cover-Art.jpg",
     "listened": true
   },
@@ -499,10 +343,10 @@
     "year": 1991,
     "country": "Estados Unidos",
     "genre": "Hard Rock, Blues Rock",
-    "pending_listens": 6,
+    "pending_listens": 5,
     "main_genre": "Glam Metal",
     "minutes": 75,
-    "remaining": 450,
+    "remaining": 375,
     "image": "https://cdn.sonemic.net/i/600/w/39d68bc902eb8adbb88ba8e96849d6b1/6439703/guns-n-roses-use-your-illusion-i-Cover-Art.jpg",
     "listened": true
   },
@@ -512,10 +356,10 @@
     "year": 1984,
     "country": "Estados Unidos",
     "genre": "Thrash Metal, Heavy Metal",
-    "pending_listens": 5,
+    "pending_listens": 4,
     "main_genre": "Thrash Metal Classic",
     "minutes": 48,
-    "remaining": 240,
+    "remaining": 192,
     "image": "https://cdn.sonemic.net/i/600/w/8bb02f881f106ac6c8eee5d470ed8803/10821765/metallica-ride-the-lightning-Cover-Art.jpg",
     "listened": true
   },
@@ -525,10 +369,10 @@
     "year": 1998,
     "country": "Estados Unidos",
     "genre": "Technical Death Metal, Progressive Metal, Melodic Death Metal",
-    "pending_listens": 6,
+    "pending_listens": 4,
     "main_genre": "Death Metal Classic",
     "minutes": 56,
-    "remaining": 336,
+    "remaining": 224,
     "image": "https://cdn.sonemic.net/i/600/w/09aa0ca4ded323eaa16189b1e93584bc/2586089/death-the-sound-of-perseverance-Cover-Art.jpg",
     "listened": true
   },
@@ -538,10 +382,10 @@
     "year": 2007,
     "country": "Estados Unidos",
     "genre": "Alternative Metal, Heavy Metal, Melodic Metalcore",
-    "pending_listens": 3,
+    "pending_listens": 2,
     "main_genre": "Metalcore",
     "minutes": 53,
-    "remaining": 159,
+    "remaining": 106,
     "image": "https://cdn.sonemic.net/i/600/w/8292bb410bae181601b0a2144a2743af/4455785/avenged-sevenfold-avenged-sevenfold-Cover-Art.jpg",
     "listened": true
   },
@@ -551,10 +395,10 @@
     "year": 2011,
     "country": "Alemania",
     "genre": "Technical Death Metal",
-    "pending_listens": 6,
+    "pending_listens": 5,
     "main_genre": "Death Metal New Wave",
     "minutes": 55,
-    "remaining": 330,
+    "remaining": 275,
     "image": "https://cdn.sonemic.net/i/600/w/56950c5cdf39679850b35d8c4a76a5cc/3521428/obscura-omnivium-Cover-Art.jpg",
     "listened": true
   },
@@ -564,10 +408,10 @@
     "year": 2016,
     "country": "Estados Unidos",
     "genre": "Experimental Hip Hop, Hardcore Hip Hop, Abstract Hip Hop",
-    "pending_listens": 6,
+    "pending_listens": 5,
     "main_genre": "Hip Hop New Wave",
     "minutes": 47,
-    "remaining": 282,
+    "remaining": 235,
     "image": "https://cdn.sonemic.net/i/600/w/e2a36e87b94f7eb88d808a6963eaea61/10533488/danny-brown-atrocity-exhibition-Cover-Art.jpg",
     "listened": true
   },
@@ -577,10 +421,10 @@
     "year": 2017,
     "country": "Colombia",
     "genre": "Hardcore Hip Hop, Boom Bap",
-    "pending_listens": 5,
+    "pending_listens": 4,
     "main_genre": "Hip Hop Hispano",
     "minutes": 51,
-    "remaining": 255,
+    "remaining": 204,
     "image": "https://cdn.sonemic.net/i/600/w/5cb84cee187c66f352a4a810f3c486d6/6782631/alcolirykoz-servicios-ambulatorioz-Cover-Art.jpg",
     "listened": true
   },
@@ -590,10 +434,10 @@
     "year": 1978,
     "country": "Cuba",
     "genre": "Nueva Tova, Singer-Songwriter",
-    "pending_listens": 4,
+    "pending_listens": 3,
     "main_genre": "Folklore Hispano",
     "minutes": 35,
-    "remaining": 140,
+    "remaining": 105,
     "image": "https://cdn.sonemic.net/i/600/w/b4b337c096a64ea5d01c31973fd33aa3/13158886/silvio-rodriguez-al-final-de-este-viaje-Cover-Art.png",
     "listened": true
   },
@@ -603,10 +447,10 @@
     "year": 2002,
     "country": "Puerto Rico",
     "genre": "Reggaeton, Hardcore hip hop, Boom Bap",
-    "pending_listens": 6,
+    "pending_listens": 5,
     "main_genre": "Reggaeton",
     "minutes": 58,
-    "remaining": 348,
+    "remaining": 290,
     "image": "https://cdn.sonemic.net/i/600/w/98df95cde085ef89751342c2ca2fc7ac/10174563/tego-calderon-el-abayarde-Cover-Art.png",
     "listened": true
   },
@@ -616,10 +460,10 @@
     "year": 2001,
     "country": "Italia",
     "genre": "Electro Dance, Tech Trance, Electro House, Euro Trance",
-    "pending_listens": 5,
+    "pending_listens": 4,
     "main_genre": "Electronica",
     "minutes": 128,
-    "remaining": 640,
+    "remaining": 512,
     "image": "https://cdn.sonemic.net/i/600/w/2b4ba60885c9b412c1eeebdf859e966e/1509669/gigi-dagostino-lamour-toujours-Cover-Art.jpg",
     "listened": true
   },
@@ -629,10 +473,10 @@
     "year": 2025,
     "country": "Chile",
     "genre": "Vocal Jazz, Pop Soul, Smooth Soul, Bolero",
-    "pending_listens": 4,
+    "pending_listens": 3,
     "main_genre": "Balada",
     "minutes": 52,
-    "remaining": 208,
+    "remaining": 156,
     "image": "https://cdn.sonemic.net/i/600/w/b95578f4fa9ca0862968fa4dcfc30ab4/13818038/mon-laferte-femme-fatale-Cover-Art.jpg",
     "listened": true
   },
@@ -642,10 +486,10 @@
     "year": 1990,
     "country": "Canada",
     "genre": "Thrash Metal, Technical Thrash Metal",
-    "pending_listens": 6,
+    "pending_listens": 5,
     "main_genre": "Thrash Metal Classic",
     "minutes": 44,
-    "remaining": 264,
+    "remaining": 220,
     "image": "https://cdn.sonemic.net/i/600/w/6263fbdbd9bdb9916158a9be5083b91f/2475208/annihilator-never-neverland-Cover-Art.jpg",
     "listened": true
   }

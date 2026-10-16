@@ -35,7 +35,7 @@
     "country": "Inglaterra",
     "main_genre": "Rock Classic 60s",
     "genre": "Pop Rock, Blues Rock",
-    "vinyl_color": "Negro",
+    "vinyl_color": "Verde",
     "status": "Interiorizado",
     "rate": 4.818,
     "avg_rate": 5,
@@ -105,7 +105,7 @@
     "country": "Inglaterra",
     "main_genre": "Rock Prog Classic",
     "genre": "Progressive Rock, Art Rock",
-    "vinyl_color": "Negro",
+    "vinyl_color": "Amarillo",
     "status": "Interiorizado",
     "rate": 4.7,
     "avg_rate": 4.5,
@@ -176,7 +176,7 @@
     "main_genre": "Post-punk - Dream Pop - New Wave",
     "genre": "Art Punk, Art Rock, Post-Punk",
     "vinyl_color": "Transparente",
-    "status": "En escucha",
+    "status": "Interiorizado",
     "rate": null,
     "avg_rate": null,
     "image": "https://cdn.sonemic.net/i/600/w/692c17be71ef707b2cf284803d3f2255/7659700/television-marquee-moon-Cover-Art.jpg"
@@ -372,7 +372,7 @@
     "main_genre": "Thrash Metal Classic",
     "genre": "Technical Thrash Metal, Progressive Metal",
     "vinyl_color": "Negro",
-    "status": "En escucha",
+    "status": "Interiorizado",
     "rate": null,
     "avg_rate": null,
     "image": "https://cdn.sonemic.net/i/600/w/c01efac490c0a9cfe3a94b5035a7de97/1889847/forbidden-forbidden-evil-Cover-Art.jpg"
@@ -680,7 +680,7 @@
     "main_genre": "Balada",
     "genre": "Balada, Rock Pop",
     "vinyl_color": "Dorado",
-    "status": "En escucha",
+    "status": "Interiorizado",
     "rate": null,
     "avg_rate": null,
     "image": "https://cdn.sonemic.net/i/600/w/022dbbacd98169a1790f580db26fecd8/5723865/juan-pablo-vega-nada-personal-Cover-Art.jpg"
@@ -750,7 +750,7 @@
     "main_genre": "Hip Hop Hispano",
     "genre": "Boom Bap, Conscious Hip Hop, Abstract Hip Hop",
     "vinyl_color": "Negro",
-    "status": "En escucha",
+    "status": "Interiorizado",
     "rate": null,
     "avg_rate": null,
     "image": "https://cdn.sonemic.net/i/600/w/8b3062e20841edd623eea0b2cd64f3c4/6256382/kase_o-el-circulo-Cover-Art.jpg"
@@ -884,7 +884,7 @@
   {
     "name": "MOR, no le temas a la oscuridad",
     "artist": "Feid",
-    "year": 2021,
+    "year": 2023,
     "release_date": "29/09/2023",
     "country": "Colombia",
     "main_genre": "Reggaeton",

@@ -18,7 +18,8 @@
         "range": {
           "low": 4.5,
           "high": 4.75
-        }
+        },
+        "number": 1
       },
       {
         "name": "Something",
@@ -26,7 +27,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 2
       },
       {
         "name": "Maxwell's Silver Hammer",
@@ -34,7 +36,8 @@
         "range": {
           "low": 3.75,
           "high": 4
-        }
+        },
+        "number": 3
       },
       {
         "name": "Oh! Darling",
@@ -42,7 +45,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 4
       },
       {
         "name": "Octopus's Garden",
@@ -50,7 +54,8 @@
         "range": {
           "low": 3.75,
           "high": 3.75
-        }
+        },
+        "number": 5
       },
       {
         "name": "I Want You (She's So Heavy)",
@@ -58,7 +63,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 6
       },
       {
         "name": "Here Comes the Sun",
@@ -66,7 +72,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 7
       },
       {
         "name": "Because",
@@ -74,7 +81,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 8
       },
       {
         "name": "You Never Give Me Your Money",
@@ -84,7 +92,8 @@
           "high": 4
         },
         "min_rating": 4,
-        "max_rating": 4
+        "max_rating": 4,
+        "number": 9
       },
       {
         "name": "Sun King",
@@ -92,7 +101,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 10
       },
       {
         "name": "Mean Mr. Mustard",
@@ -100,7 +110,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 11
       },
       {
         "name": "Polythene Pam",
@@ -108,7 +119,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 12
       },
       {
         "name": "She Came In Through the Bathroom Window",
@@ -116,7 +128,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 13
       },
       {
         "name": "Golden Slumbers",
@@ -124,7 +137,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 14
       },
       {
         "name": "Carry That Weight",
@@ -132,7 +146,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 15
       },
       {
         "name": "The End",
@@ -140,7 +155,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 16
       }
     ],
     "listened": false
@@ -254,7 +270,8 @@
         "range": {
           "low": 4.25,
           "high": 4.25
-        }
+        },
+        "number": 1
       },
       {
         "name": "Scene Two Pt1: Overture 1928",
@@ -262,7 +279,8 @@
         "range": {
           "low": 4,
           "high": 4.25
-        }
+        },
+        "number": 2
       },
       {
         "name": "Scene Two Pt2: Strange Dejavu",
@@ -270,7 +288,8 @@
         "range": {
           "low": 4.25,
           "high": 4.5
-        }
+        },
+        "number": 3
       },
       {
         "name": "Scene Three Pt1: Through my Words",
@@ -278,7 +297,8 @@
         "range": {
           "low": 4.5,
           "high": 4.75
-        }
+        },
+        "number": 4
       },
       {
         "name": "Scene Three Pt2: Fatal Tragedy",
@@ -286,7 +306,8 @@
         "range": {
           "low": 5,
           "high": 5.5
-        }
+        },
+        "number": 5
       },
       {
         "name": "Scene Four: Beyond This Life",
@@ -294,7 +315,8 @@
         "range": {
           "low": 4.75,
           "high": 5
-        }
+        },
+        "number": 6
       },
       {
         "name": "Scene Five: Through her Eyes",
@@ -304,7 +326,8 @@
           "high": 5
         },
         "min_rating": 5,
-        "max_rating": 5
+        "max_rating": 5,
+        "number": 7
       },
       {
         "name": "Scene Six: Home",
@@ -312,7 +335,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 8
       },
       {
         "name": "Scene Seven Pt1: The Dance of Eternity",
@@ -320,7 +344,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 9
       },
       {
         "name": "Scene Seven Pt2: One Last Time",
@@ -328,7 +353,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 10
       },
       {
         "name": "Scene Eight: The Spirit Carries On",
@@ -336,7 +362,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 11
       },
       {
         "name": "Scene Nine: Finally Free",
@@ -344,10 +371,11 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 12
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Channel ORANGE",
@@ -467,7 +495,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "The Miseducation of Lauryn Hill",
@@ -603,7 +631,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Ants From Up There",
@@ -691,7 +719,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Artaud",
@@ -939,7 +967,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Ready to Die",
@@ -1210,7 +1238,8 @@
         "range": {
           "low": 4.25,
           "high": 4.25
-        }
+        },
+        "number": 1
       },
       {
         "name": "Killing Time",
@@ -1218,7 +1247,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 2
       },
       {
         "name": "The Blue Interlude",
@@ -1226,7 +1256,8 @@
         "range": {
           "low": 4.25,
           "high": 4.5
-        }
+        },
+        "number": 3
       },
       {
         "name": "Images",
@@ -1234,7 +1265,8 @@
         "range": {
           "low": 4.5,
           "high": 4.5
-        }
+        },
+        "number": 4
       },
       {
         "name": "Death & Romance",
@@ -1242,7 +1274,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 5
       },
       {
         "name": "Fear, Sex",
@@ -1250,7 +1283,8 @@
         "range": {
           "low": 3.75,
           "high": 3.75
-        }
+        },
+        "number": 6
       },
       {
         "name": "Vampire in The Courner",
@@ -1258,7 +1292,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 7
       },
       {
         "name": "Watching TV",
@@ -1266,7 +1301,8 @@
         "range": {
           "low": 5,
           "high": 5.5
-        }
+        },
+        "number": 8
       },
       {
         "name": "Tunnel Vision",
@@ -1274,7 +1310,8 @@
         "range": {
           "low": 4.75,
           "high": 5
-        }
+        },
+        "number": 9
       },
       {
         "name": "Love is Everywhere",
@@ -1282,7 +1319,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 10
       },
       {
         "name": "That's my Floor",
@@ -1290,7 +1328,8 @@
         "range": {
           "low": 4.5,
           "high": 4.5
-        }
+        },
+        "number": 11
       },
       {
         "name": "Cry for My",
@@ -1298,7 +1337,8 @@
         "range": {
           "low": 4.5,
           "high": 4.75
-        }
+        },
+        "number": 12
       },
       {
         "name": "Angel on a Satelite",
@@ -1306,7 +1346,8 @@
         "range": {
           "low": 5,
           "high": 5.5
-        }
+        },
+        "number": 13
       },
       {
         "name": "The Ballad of Math and Mica",
@@ -1314,10 +1355,11 @@
         "range": {
           "low": 4.5,
           "high": 4.5
-        }
+        },
+        "number": 14
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "To Pimp a Butterfly",
@@ -2111,7 +2153,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "And Justice For All",
@@ -2527,7 +2569,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Esmeraldas",
@@ -2548,7 +2590,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 1
       },
       {
         "name": "La Mitad de la Mitad",
@@ -2556,7 +2599,8 @@
         "range": {
           "low": 4.75,
           "high": 5
-        }
+        },
+        "number": 2
       },
       {
         "name": "Dia Uno",
@@ -2564,7 +2608,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 3
       },
       {
         "name": "Novena",
@@ -2572,7 +2617,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 4
       },
       {
         "name": "El Estren",
@@ -2580,7 +2626,8 @@
         "range": {
           "low": 5,
           "high": 5.5
-        }
+        },
+        "number": 5
       },
       {
         "name": "Jamming",
@@ -2588,7 +2635,8 @@
         "range": {
           "low": 4,
           "high": 4.25
-        }
+        },
+        "number": 6
       },
       {
         "name": "No Copio",
@@ -2596,7 +2644,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 7
       },
       {
         "name": "Maria",
@@ -2604,7 +2653,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 8
       },
       {
         "name": "Poper",
@@ -2612,7 +2662,8 @@
         "range": {
           "low": 4.25,
           "high": 4.5
-        }
+        },
+        "number": 9
       },
       {
         "name": "De Par en Par",
@@ -2620,7 +2671,8 @@
         "range": {
           "low": 3.75,
           "high": 3.75
-        }
+        },
+        "number": 10
       },
       {
         "name": "Maria Circones",
@@ -2628,7 +2680,8 @@
         "range": {
           "low": 4.25,
           "high": 4.5
-        }
+        },
+        "number": 11
       },
       {
         "name": "Sera Sera",
@@ -2636,7 +2689,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 12
       },
       {
         "name": "La Titular",
@@ -2644,7 +2698,8 @@
         "range": {
           "low": 4.75,
           "high": 5
-        }
+        },
+        "number": 13
       },
       {
         "name": "DMT",
@@ -2652,7 +2707,8 @@
         "range": {
           "low": 3.5,
           "high": 3.5
-        }
+        },
+        "number": 14
       },
       {
         "name": "Bendiciones",
@@ -2660,7 +2716,8 @@
         "range": {
           "low": 4.75,
           "high": 5
-        }
+        },
+        "number": 15
       },
       {
         "name": "Sintesis",
@@ -2668,7 +2725,8 @@
         "range": {
           "low": 3.75,
           "high": 4
-        }
+        },
+        "number": 16
       },
       {
         "name": "Collage",
@@ -2676,10 +2734,11 @@
         "range": {
           "low": 4.5,
           "high": 4.75
-        }
+        },
+        "number": 17
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Animals",
@@ -3442,9 +3501,9 @@
     "main_genre": "Rock New Wave 10's",
     "genre": "Indie Rock, Post-Punk, New Wave",
     "duration": 46,
-    "rate": 4.6667,
+    "rate": 4.680555555555555,
     "avg_rate": 4.5,
-    "like_percentage": 61.11,
+    "like_percentage": 61.11111111111111,
     "songs": [
       {
         "name": "The Adults are Talking",
@@ -3452,15 +3511,19 @@
         "range": {
           "low": 5,
           "high": 5.5
-        }
+        },
+        "number": 1
       },
       {
         "name": "Selfless",
-        "rate": 4.75,
+        "rate": 4.875,
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 2,
+        "min_rating": 4.75,
+        "max_rating": 5
       },
       {
         "name": "Brooklyn Bridge to Chorus",
@@ -3468,7 +3531,8 @@
         "range": {
           "low": 3.75,
           "high": 3.75
-        }
+        },
+        "number": 3
       },
       {
         "name": "Bad Decisions",
@@ -3476,7 +3540,8 @@
         "range": {
           "low": 4,
           "high": 4.25
-        }
+        },
+        "number": 4
       },
       {
         "name": "Eternal Summer",
@@ -3484,7 +3549,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 5
       },
       {
         "name": "At the Door",
@@ -3492,7 +3558,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 6
       },
       {
         "name": "Why are Sundays so Depressing",
@@ -3500,7 +3567,8 @@
         "range": {
           "low": 4.5,
           "high": 4.5
-        }
+        },
+        "number": 7
       },
       {
         "name": "Not The Same Anymore",
@@ -3508,7 +3576,8 @@
         "range": {
           "low": 4.25,
           "high": 4.5
-        }
+        },
+        "number": 8
       },
       {
         "name": "Ode to The Mets",
@@ -3516,10 +3585,11 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 9
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Rust in Peace",
@@ -4164,7 +4234,8 @@
         "range": {
           "low": 4,
           "high": 4.25
-        }
+        },
+        "number": 1
       },
       {
         "name": "Frankly Mr Shankly",
@@ -4172,7 +4243,8 @@
         "range": {
           "low": 4.5,
           "high": 4.5
-        }
+        },
+        "number": 2
       },
       {
         "name": "I Know it's Over",
@@ -4180,7 +4252,8 @@
         "range": {
           "low": 5,
           "high": 5.5
-        }
+        },
+        "number": 3
       },
       {
         "name": "Never had no one Ever",
@@ -4188,7 +4261,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 4
       },
       {
         "name": "Cementery Gates",
@@ -4196,7 +4270,8 @@
         "range": {
           "low": 5,
           "high": 5
-        }
+        },
+        "number": 5
       },
       {
         "name": "Bigmouth Strikers Again",
@@ -4204,7 +4279,8 @@
         "range": {
           "low": 3,
           "high": 3
-        }
+        },
+        "number": 6
       },
       {
         "name": "The Boy with the Thorn in his Side",
@@ -4212,7 +4288,8 @@
         "range": {
           "low": 4.75,
           "high": 4.75
-        }
+        },
+        "number": 7
       },
       {
         "name": "Vicar In a Tutu",
@@ -4220,7 +4297,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 8
       },
       {
         "name": "There is a Light that never Goes Out",
@@ -4228,7 +4306,8 @@
         "range": {
           "low": 5.5,
           "high": 5.5
-        }
+        },
+        "number": 9
       },
       {
         "name": "Some Girls are Bigger than others",
@@ -4236,10 +4315,11 @@
         "range": {
           "low": 4,
           "high": 4
-        }
+        },
+        "number": 10
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Songs in the Key of Life",
@@ -4607,7 +4687,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Toxicity",
@@ -8351,7 +8431,7 @@
         }
       }
     ],
-    "listened": false
+    "listened": true
   },
   {
     "name": "Happier Than Ever",
@@ -9130,110 +9210,127 @@
     "minutes": 71,
     "image": "https://cdn.sonemic.net/i/600/w/8b3062e20841edd623eea0b2cd64f3c4/6256382/kase_o-el-circulo-Cover-Art.jpg",
     "listened": true,
-    "rate": 4.6912,
+    "rate": 4.6911764705882355,
     "avg_rate": 4.5,
     "songs": [
       {
         "name": "Intro (El Circulo)",
         "min_rating": 4.75,
         "max_rating": 4.75,
-        "rate": 4.75
+        "rate": 4.75,
+        "number": 1
       },
       {
         "name": "Esto no Para",
         "min_rating": 4.5,
         "max_rating": 4.5,
-        "rate": 4.5
+        "rate": 4.5,
+        "number": 2
       },
       {
         "name": "Yemen",
         "min_rating": 5.5,
         "max_rating": 5.5,
-        "rate": 5.5
+        "rate": 5.5,
+        "number": 3
       },
       {
         "name": "Triste",
         "min_rating": 4.5,
         "max_rating": 4.75,
-        "rate": 4.625
+        "rate": 4.625,
+        "number": 4
       },
       {
         "name": "Guapo Tarde",
         "min_rating": 3.75,
         "max_rating": 4,
-        "rate": 3.875
+        "rate": 3.875,
+        "number": 5
       },
       {
         "name": "Viejos Ciegos",
         "min_rating": 4.75,
         "max_rating": 5,
-        "rate": 4.875
+        "rate": 4.875,
+        "number": 6
       },
       {
         "name": "Quieren Copiar",
         "min_rating": 4.75,
         "max_rating": 5,
-        "rate": 4.875
+        "rate": 4.875,
+        "number": 7
       },
       {
         "name": "Pavos Reales",
         "min_rating": 4.75,
         "max_rating": 4.75,
-        "rate": 4.75
+        "rate": 4.75,
+        "number": 8
       },
       {
         "name": "Mitad y Mitad",
-        "min_rating": 3.75,
-        "max_rating": 3.75,
-        "rate": 3.75
+        "min_rating": 3.5,
+        "max_rating": 3.5,
+        "rate": 3.5,
+        "number": 9
       },
       {
         "name": "Mazas y Catapultas",
         "min_rating": 4.75,
         "max_rating": 4.75,
-        "rate": 4.75
+        "rate": 4.75,
+        "number": 10
       },
       {
         "name": "Amor sin Clausulas",
         "min_rating": 4.25,
         "max_rating": 4.5,
-        "rate": 4.375
+        "rate": 4.375,
+        "number": 11
       },
       {
         "name": "No se que voy a Hacer",
         "min_rating": 5.5,
         "max_rating": 5.5,
-        "rate": 5.5
+        "rate": 5.5,
+        "number": 12
       },
       {
         "name": "Risoterapia",
         "min_rating": 4.25,
         "max_rating": 4.25,
-        "rate": 4.25
+        "rate": 4.25,
+        "number": 13
       },
       {
         "name": "Rap Superdotado",
         "min_rating": 4.75,
         "max_rating": 5,
-        "rate": 4.875
+        "rate": 4.875,
+        "number": 14
       },
       {
         "name": "Repartiendo Arte",
         "min_rating": 5,
-        "max_rating": 5,
-        "rate": 5
+        "max_rating": 5.5,
+        "rate": 5.25,
+        "number": 15
       },
       {
         "name": "Basureta",
         "min_rating": 4.75,
         "max_rating": 4.75,
-        "rate": 4.75
+        "rate": 4.75,
+        "number": 16
       },
       {
         "name": "Outro",
         "min_rating": 4.75,
         "max_rating": 4.75,
-        "rate": 4.75
+        "rate": 4.75,
+        "number": 17
       }
     ],
     "like_percentage": 70.58823529411765,
@@ -9382,5 +9479,1086 @@
     ],
     "like_percentage": 68.75,
     "duration": 35
+  },
+  {
+    "name": "Terminal Redux",
+    "artist": "Vektor",
+    "year": 2016,
+    "country": "Estados Unidos",
+    "genre": "Technical Thrash Metal, Progressive Metal",
+    "main_genre": "Thrash Metal New Wave",
+    "minutes": 74,
+    "image": "https://cdn.sonemic.net/i/600/w/4d65deda05687800ff33add35d7255a1/7984429/vektor-terminal-redux-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.7,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Charging the Void",
+        "min_rating": 3.75,
+        "max_rating": 3.75,
+        "rate": 3.75,
+        "number": 1
+      },
+      {
+        "name": "Cygnus Terminal",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 2
+      },
+      {
+        "name": "LCD (Liquid Crystal Disease)",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625,
+        "number": 3
+      },
+      {
+        "name": "Mountains Above the Sun",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 4
+      },
+      {
+        "name": "Ultimate Artificier",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125,
+        "number": 5
+      },
+      {
+        "name": "Pteropticon",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625,
+        "number": 6
+      },
+      {
+        "name": "Psychotrophia",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 7
+      },
+      {
+        "name": "Pillars of Sand",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5,
+        "number": 8
+      },
+      {
+        "name": "Colapse",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5,
+        "number": 9
+      },
+      {
+        "name": "Recharging the Void",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5,
+        "number": 10
+      }
+    ],
+    "like_percentage": 65,
+    "duration": 74
+  },
+  {
+    "name": "Casa de Leones",
+    "artist": "Jowell, Randy, Guelo Star, J King, Maximan",
+    "year": 2007,
+    "country": "Puerto Rico",
+    "genre": "Reggaetón, Dancehall",
+    "main_genre": "Reggaeton",
+    "minutes": 86,
+    "image": "https://cdn.sonemic.net/i/600/w/b8aecb81b81e7e12e540b503b94ad625/5195325/casa-de-leones-casa-de-leones-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.613636363636363,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Intro Pa mi Ponce",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5,
+        "number": 1
+      },
+      {
+        "name": "Esto es Perreo",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 2
+      },
+      {
+        "name": "Potrona",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625,
+        "number": 3
+      },
+      {
+        "name": "Trambo",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 4
+      },
+      {
+        "name": "Dale con Presion",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 5
+      },
+      {
+        "name": "Shorty",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25,
+        "number": 6
+      },
+      {
+        "name": "A Veces Pienso",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5,
+        "number": 7
+      },
+      {
+        "name": "Biggie Booty Lady",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25,
+        "number": 8
+      },
+      {
+        "name": "No te Veo",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375,
+        "number": 9
+      },
+      {
+        "name": "Ponte Ahi",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625,
+        "number": 10
+      },
+      {
+        "name": "Listen to me Baby",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25,
+        "number": 11
+      },
+      {
+        "name": "There's no Reason",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375,
+        "number": 12
+      },
+      {
+        "name": "Yo Se",
+        "min_rating": 3.75,
+        "max_rating": 3.75,
+        "rate": 3.75,
+        "number": 13
+      },
+      {
+        "name": "Y que Paso Yal",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125,
+        "number": 14
+      },
+      {
+        "name": "Sacala a Bailar",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 15
+      },
+      {
+        "name": "Dos Palgas",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 16
+      },
+      {
+        "name": "Soltura",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 17
+      },
+      {
+        "name": "Te Ando Buscando mi Amor",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 18
+      },
+      {
+        "name": "Eh Oh Eh Oh",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5,
+        "number": 19
+      },
+      {
+        "name": "Que te Vaya Bien",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25,
+        "number": 20
+      },
+      {
+        "name": "Velandote",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5,
+        "number": 21
+      },
+      {
+        "name": "Ese Amor",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5,
+        "number": 22
+      }
+    ],
+    "like_percentage": 56.81818181818181,
+    "duration": 86
+  },
+  {
+    "name": "Forbidden Evil",
+    "artist": "Forbidden",
+    "year": 1988,
+    "country": "Estados Unidos",
+    "genre": "Technical Thrash Metal, Progressive Metal",
+    "main_genre": "Thrash Metal Classic",
+    "minutes": 43,
+    "image": "https://cdn.sonemic.net/i/600/w/c01efac490c0a9cfe3a94b5035a7de97/1889847/forbidden-forbidden-evil-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6406,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Chalice of Blood",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Off the Edge",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      },
+      {
+        "name": "Through Eyes of Glass",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Forbidden Evil",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "March Into Fire",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Feel No Pain",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "As Good As Dead",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875
+      },
+      {
+        "name": "Follow Me",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375
+      }
+    ],
+    "like_percentage": 56.25,
+    "duration": 43
+  },
+  {
+    "name": "Lo que te conté mientras te hacías la dormida",
+    "artist": "La Oreja de Van Gogh",
+    "year": 2003,
+    "country": "España",
+    "genre": "Pop Rock, Balada, Synthpop",
+    "main_genre": "Balada",
+    "minutes": 54,
+    "image": "https://cdn.sonemic.net/i/600/w/6071a00008898eecfda1e7bad047fe65/1681879/la-oreja-de-van-gogh-lo-que-te-conte-mientras-te-hacias-la-dormida-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.5833,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Puedes Contar Conmigo",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5,
+        "number": 1
+      },
+      {
+        "name": "20 de Enero",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 2
+      },
+      {
+        "name": "Rosas",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5,
+        "number": 3
+      },
+      {
+        "name": "Deseos de Cosas Imposibles",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 4
+      },
+      {
+        "name": "Geografia",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5,
+        "number": 5
+      },
+      {
+        "name": "Un Mundo Mejor",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125,
+        "number": 6
+      },
+      {
+        "name": "Tu y Yo",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 7
+      },
+      {
+        "name": "La Esperanza Debida",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875,
+        "number": 8
+      },
+      {
+        "name": "Vestido Azul",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625,
+        "number": 9
+      },
+      {
+        "name": "Adios",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125,
+        "number": 10
+      },
+      {
+        "name": "Perdoname",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 11
+      },
+      {
+        "name": "La Paz de tus Ojos",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5,
+        "number": 12
+      },
+      {
+        "name": "Nadie Como Tu",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375,
+        "number": 13
+      },
+      {
+        "name": "Historia de un Sueño",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5,
+        "number": 14
+      },
+      {
+        "name": "Bonus Track",
+        "min_rating": 3.5,
+        "max_rating": 3.75,
+        "rate": 3.625,
+        "number": 15
+      }
+    ],
+    "like_percentage": 56.66666666666666,
+    "duration": 54
+  },
+  {
+    "name": "Charm",
+    "artist": "Clairo",
+    "year": 2024,
+    "country": "Estados Unidos",
+    "genre": "Soft Rock, Sophisti-Pop, Pop Soul, Chamber Pop",
+    "main_genre": "Pop",
+    "minutes": 38,
+    "image": "https://cdn.sonemic.net/i/600/w/a6f3e0507b50f0954572394f334ad11a/12312967/clairo-charm-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6477,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Nomad",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Sexy to Someone",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Second Nature",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Slow Dance",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25
+      },
+      {
+        "name": "Thank You",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      },
+      {
+        "name": "Terrapin",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Juna",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Add up my Love",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25
+      },
+      {
+        "name": "Echo",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Glory of the Snow",
+        "min_rating": 4,
+        "max_rating": 4,
+        "rate": 4
+      },
+      {
+        "name": "Pier 4",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      }
+    ],
+    "like_percentage": 59.090909090909086,
+    "duration": 38
+  },
+  {
+    "name": "Marquee Moon",
+    "artist": "Television",
+    "year": 1977,
+    "country": "Estados Unidos",
+    "genre": "Art Punk, Art Rock, Post-Punk",
+    "main_genre": "Post-punk - Dream Pop - New Wave",
+    "minutes": 46,
+    "image": "https://cdn.sonemic.net/i/600/w/692c17be71ef707b2cf284803d3f2255/7659700/television-marquee-moon-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6563,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "I See no Evil",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Venus",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25
+      },
+      {
+        "name": "Friction",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375
+      },
+      {
+        "name": "Marquee Moon",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "Elevation",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Guiding Light",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Prove It",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Turn Curtain",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875
+      }
+    ],
+    "like_percentage": 50,
+    "duration": 46
+  },
+  {
+    "name": "Serio",
+    "artist": "Lil Supa",
+    "year": 2017,
+    "country": "Venezuela",
+    "genre": "Jazz Rap, Drumless, Conscious Hip Hop",
+    "main_genre": "Hip Hop Hispano",
+    "minutes": 45,
+    "image": "https://cdn.sonemic.net/i/600/w/90b3cce0fe61223b4afa3f80d1db5dba/14270116/lil-supa-serio-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6771,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "No Llores",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Luz",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Flawless",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875
+      },
+      {
+        "name": "Culto",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Wise Guys",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Hambre",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Zu-Rial",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Fresco & Sucio",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25
+      },
+      {
+        "name": "Unstoppable",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "99",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "Huellas",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Espejo",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      }
+    ],
+    "like_percentage": 58.33333333333333,
+    "duration": 45
+  },
+  {
+    "name": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+    "artist": "David Bowie",
+    "year": 1972,
+    "country": "Inglaterra",
+    "genre": "Glam Rock, Pop Rock, Art Rock",
+    "main_genre": "Rock Classic 70s",
+    "minutes": 39,
+    "image": "https://cdn.sonemic.net/i/600/w/5286b64a7026f2aa94e663215d2a95f6/8542182/david-bowie-the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-Cover-Art.png",
+    "listened": true,
+    "rate": 4.6705,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Five Years",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Soul Love",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Moonage Daydream",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Starman",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "It ain’t Easy",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Lady Stardust",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Star",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25
+      },
+      {
+        "name": "Hang on to Yourself",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Ziggy Stardust",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "Suffragette Street",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Rock’ N’ Roll Suicide",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      }
+    ],
+    "like_percentage": 68.18181818181819,
+    "duration": 39
+  },
+  {
+    "name": "Peace Sells... But Who's Buying?",
+    "artist": "Megadeth",
+    "year": 1986,
+    "country": "Estados Unidos",
+    "genre": "Thrash Metal",
+    "main_genre": "Thrash Metal Classic",
+    "minutes": 36,
+    "image": "https://cdn.sonemic.net/i/600/w/21813bd1cb4c3eb199ee77a3fde6bf07/11299229/megadeth-peace-sells-but-whos-buying-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6875,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Wake up Dead",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25,
+        "number": 1
+      },
+      {
+        "name": "The Conjuring",
+        "min_rating": 3.75,
+        "max_rating": 3.75,
+        "rate": 3.75,
+        "number": 2
+      },
+      {
+        "name": "Peace Sells",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75,
+        "number": 3
+      },
+      {
+        "name": "Devil’s Island",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5,
+        "number": 4
+      },
+      {
+        "name": "Good Morning / Black Friday",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5,
+        "number": 5
+      },
+      {
+        "name": "Bad Omen",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875,
+        "number": 6
+      },
+      {
+        "name": "I Ain’t Superstitious",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5,
+        "number": 7
+      },
+      {
+        "name": "My Last Words",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875,
+        "number": 8
+      }
+    ],
+    "like_percentage": 68.75,
+    "duration": 36
+  },
+  {
+    "name": "Enter the Wu-Tang",
+    "artist": "Wu-Tang Clan",
+    "year": 1993,
+    "country": "Estados Unidos",
+    "genre": "East Coast Hip Hop",
+    "main_genre": "Hip Hop Classic",
+    "minutes": 59,
+    "image": "https://cdn.sonemic.net/i/600/w/35ad1c37ec1e1930616df000788e0c13/6558603/wu-tang-clan-enter-the-wu-tang-36-chambers-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6979,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "Bring Da Ruckus",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      },
+      {
+        "name": "Shame on a Nigga",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Clan in da Front",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875
+      },
+      {
+        "name": "Wu Tang: 7th Chamber",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Can It be All so Simple",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Da Mystery of Chessboxin'",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Wu Tang Clan Ain't Nuthing ta Fuck Wit",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "C.R.E.A.M",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Method Man",
+        "min_rating": 4,
+        "max_rating": 4,
+        "rate": 4
+      },
+      {
+        "name": "Potect Ya Neck",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Tearz",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Wu Tang: 7th Chamber Part II",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      }
+    ],
+    "like_percentage": 62.5,
+    "duration": 59
+  },
+  {
+    "name": "American Idiot",
+    "artist": "Green Day",
+    "year": 2004,
+    "country": "Estados Unidos",
+    "genre": "Pop Punk, Alternative Rock, Rock Opera",
+    "main_genre": "Rock New Wave 00s",
+    "minutes": 58,
+    "image": "https://cdn.sonemic.net/i/600/w/319c9a1434459c05369ef12e48607886/14435518/green-day-american-idiot-Cover-Art.png",
+    "listened": true,
+    "rate": 4.6635,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "American Idiot",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375
+      },
+      {
+        "name": "Jesus of Suburbia",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Holiday",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Boulevard of Broken Dreams",
+        "min_rating": 4.75,
+        "max_rating": 4.75,
+        "rate": 4.75
+      },
+      {
+        "name": "Are We the Waiting",
+        "min_rating": 4.25,
+        "max_rating": 4.25,
+        "rate": 4.25
+      },
+      {
+        "name": "St. Jimmy",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Give Me Novacaine",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      },
+      {
+        "name": "She's a Rebel",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Extraordinary Girl",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Letterbomb",
+        "min_rating": 4.75,
+        "max_rating": 5,
+        "rate": 4.875
+      },
+      {
+        "name": "Wake me up When September Ends",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      },
+      {
+        "name": "Homecomming",
+        "min_rating": 4.5,
+        "max_rating": 4.75,
+        "rate": 4.625
+      },
+      {
+        "name": "Whatsername",
+        "min_rating": 3.75,
+        "max_rating": 3.75,
+        "rate": 3.75
+      }
+    ],
+    "like_percentage": 57.69230769230769,
+    "duration": 58
+  },
+  {
+    "name": "Days of Future Passed",
+    "artist": "The Moody Blues",
+    "year": 1967,
+    "country": "Inglaterra",
+    "genre": "Baroque Pop, Art Rock, Progressive Pop",
+    "main_genre": "Rock Classic 60s",
+    "minutes": 42,
+    "image": "https://cdn.sonemic.net/i/600/w/7d0cadaf80b50d968c0c2af7ca1735ff/13884046/the-moody-blues-days-of-future-passed-Cover-Art.jpg",
+    "listened": true,
+    "rate": 4.6607,
+    "avg_rate": 4.5,
+    "songs": [
+      {
+        "name": "The Day Begins",
+        "min_rating": 4.5,
+        "max_rating": 4.5,
+        "rate": 4.5
+      },
+      {
+        "name": "Dawn: Dawn is a Feeling",
+        "min_rating": 5,
+        "max_rating": 5,
+        "rate": 5
+      },
+      {
+        "name": "The Morning: Another Morning",
+        "min_rating": 4,
+        "max_rating": 4.25,
+        "rate": 4.125
+      },
+      {
+        "name": "Lunch Break: Peak Hour",
+        "min_rating": 4.25,
+        "max_rating": 4.5,
+        "rate": 4.375
+      },
+      {
+        "name": "The Afternoon",
+        "min_rating": 5,
+        "max_rating": 5.5,
+        "rate": 5.25
+      },
+      {
+        "name": "Evening",
+        "min_rating": 3.75,
+        "max_rating": 4,
+        "rate": 3.875
+      },
+      {
+        "name": "The Night",
+        "min_rating": 5.5,
+        "max_rating": 5.5,
+        "rate": 5.5
+      }
+    ],
+    "like_percentage": 50,
+    "duration": 42
   }
 ]
